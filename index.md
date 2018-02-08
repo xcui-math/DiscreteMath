@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Discrete Mathematics, 2018 Spring
 
-You can use the [editor on GitHub](https://github.com/xcui-math/DiscreteMath/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is the webpage for the course Discete Mathematics, aiming for first year Math majors.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### News
 
-### Markdown
+### Instructor
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Xiaoyi Cui
 
-```markdown
-Syntax highlighted code block
+xiaoyicui@outlook.com
 
-# Header 1
-## Header 2
-### Header 3
+海滨红楼8号楼105
 
-- Bulleted
-- List
+Office Hour: Monday 12:30 - 14:00pm in my office, and before/after class in the classroom.
 
-1. Numbered
-2. List
+### Objectives
 
-**Bold** and _Italic_ and `Code` text
+### Prerequisites
 
-[Link](url) and ![Image](src)
-```
+### Textbooks
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+We shall not follow specific textbooks, but the following Chinese textbook is helpful. 
 
-### Jekyll Themes
+```离散数学，左孝凌、李为鑑、刘永才，上海科学技术文献出版社，1982年9月。```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xcui-math/DiscreteMath/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Further references will be given in due course.
 
-### Support or Contact
+### Exams
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Policies
+
+The assigned problems are due each Friday in-class, listed on this page. Homeworks contribute to your final grade. Students must make arrangements in advance if they will not be handing in homework on time.
+
+We encourage you to discuss homework problems with your classmates, including strategies for solving different kinds of problems. However, when you actually write up your solutions, you must do this on your own.
