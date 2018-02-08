@@ -12,7 +12,7 @@ xiaoyicui@outlook.com
 
 海滨红楼8号楼105
 
-Office Hour: Monday 12:30 - 14:00pm in my office, and before/after class in the classroom.
+Office Hour: Monday 12:30 - 14:00pm in my office, and before/after lecture in the classroom.
 
 ### Objectives
 
