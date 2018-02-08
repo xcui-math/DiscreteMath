@@ -1,6 +1,6 @@
 ## Discrete Mathematics, 2018 Spring
 
-This is the webpage for the course Discete Mathematics, aiming for first year Math majors.
+This is the webpage for the course Discete Mathematics at Sun Yat-sen University (Zhuhai campus), aiming for the first year Math majors.
 
 ### News
 
@@ -20,9 +20,13 @@ Office Hour: Monday 12:30 - 14:00pm in my office, and before/after class in the 
 
 ### Textbooks
 
-We shall not follow specific textbooks, but the following Chinese textbook is helpful. 
+The official textbook is 
 
-```离散数学，左孝凌、李为鑑、刘永才，上海科学技术文献出版社，1982年9月。```
+```离散数学，左孝凌、李为鑑、刘永才，上海科学技术文献出版社，1982年9月.```
+
+However, I will also follow 
+
+``` Discrete Mathematics with Proof (2nd Edition), Eric Gossett, John Wiley & Sons, Jun 22, 2009.```
 
 Further references will be given in due course.
 
