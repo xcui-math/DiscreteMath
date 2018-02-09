@@ -4,6 +4,8 @@ This is the webpage for the course Discete Mathematics at Sun Yat-sen University
 
 ### News
 
+The latest lecture info can be found [here](/lecture.md).
+
 ### Instructor
 
 Xiaoyi Cui
