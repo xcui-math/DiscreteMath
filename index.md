@@ -28,10 +28,13 @@ The official textbook is
 
 However, I will also follow parts of
 
-``` [Discrete Mathematics with Proof (2nd Edition)](https://www.amazon.cn/dp/0470457937/), Eric Gossett, John Wiley & Sons, Jun 22, 2009[^1].```
-[^1]: This book is very well-written, but it is quite expensive to buy in China, and not absolutely necessary for this course, so I would not recommend buying it at this moment.
+``` [Discrete Mathematics with Proof (2nd Edition)](https://www.amazon.cn/dp/0470457937/), Eric Gossett, John Wiley & Sons, Jun 22, 2009.```
+
+This book is very well-written, but is quite expensive to buy in China. It is absolutely possible to excel at this course without buying it.
 
 Further references will be given in due course.
+
+
 
 ### Exams
 
