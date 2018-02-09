@@ -24,11 +24,12 @@ Office Hour: Monday 12:30 - 14:00pm in my office, and before/after lecture in th
 
 The official textbook is 
 
-```离散数学，左孝凌、李为鑑、刘永才，上海科学技术文献出版社，1982年9月.```
+```[离散数学](https://www.amazon.cn/dp/B00114CIWC)，左孝凌、李为鑑、刘永才，上海科学技术文献出版社，1982年9月.```
 
-However, I will also follow 
+However, I will also follow parts of
 
-``` Discrete Mathematics with Proof (2nd Edition), Eric Gossett, John Wiley & Sons, Jun 22, 2009.```
+``` [Discrete Mathematics with Proof (2nd Edition)](https://www.amazon.cn/dp/0470457937/), Eric Gossett, John Wiley & Sons, Jun 22, 2009[^1].```
+[^1]: This book is very well-written, but it is quite expensive to buy in China, and not absolutely necessary for this course, so I would not recommend buying it at this moment.
 
 Further references will be given in due course.
 
