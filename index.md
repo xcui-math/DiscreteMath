@@ -34,21 +34,16 @@ This book is very well-written, but is quite expensive to buy in China. It is ab
 
 Further references will be given in due course.
 
-
-
 ### Exams
 
 ### Policies
 
 #### Homework
 
-Homeworks will be assigned almost every two weeks, and will be posted on this webpage.
-Each assignment will be graded out of four points:
-completeness: two points for making a good-faith effort at every part of the assignment.
-correctness: one point for technically-correct, working solutions to each part.
-description: one point for clear descriptions, interpretations, explanations.
-Don't wait until the last hour to do an assignment. Plan ahead and pace yourself.
-The assigned problems are due each Friday in-class. Students must make arrangements in advance if they will not be handing in homework on time.
+Homeworks will be assigned almost every two weeks, and will be posted on this webpage. The assigned problems are due every other Friday in-class. Students must make arrangements in advance if they will not be handing in homework on time. Please don't wait until the last hour to do the homework.
+
+Each assignment will be graded out of four points: two points for making a good effort at completing each part of the homework, one point for technically-correctness in your solutions, and one point for clear descriptions, interpretations and explanations.
+
 You are encouraged to discuss about homeowork problems with others, but each one of you must write your own answers (using your own words). Copy and plagiarism will not be tolerated (see Academic Honesty policy).
 
 #### Learning Cooperatively
