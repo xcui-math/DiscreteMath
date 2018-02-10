@@ -40,6 +40,27 @@ Further references will be given in due course.
 
 ### Policies
 
-The assigned problems are due each Friday in-class, listed on this page. Homeworks contribute to your final grade. Students must make arrangements in advance if they will not be handing in homework on time.
+#### Homework
 
-We encourage you to discuss homework problems with your classmates, including strategies for solving different kinds of problems. However, when you actually write up your solutions, you must do this on your own.
+Homeworks will be assigned almost every two weeks, and will be posted on this webpage.
+Each assignment will be graded out of four points:
+completeness: two points for making a good-faith effort at every part of the assignment.
+correctness: one point for technically-correct, working solutions to each part.
+description: one point for clear descriptions, interpretations, explanations.
+Don't wait until the last hour to do an assignment. Plan ahead and pace yourself.
+The assigned problems are due each Friday in-class. Students must make arrangements in advance if they will not be handing in homework on time.
+You are encouraged to discuss about homeowork problems with others, but each one of you must write your own answers (using your own words). Copy and plagiarism will not be tolerated (see Academic Honesty policy).
+
+#### Learning Cooperatively
+
+With the exception of exams, we encourage you to discuss all of the course activities with your classmates as you are working on them. You will definitely learn more in this class if you work with others. Please ask questions, answer questions, and share ideas liberally.
+
+#### Academic Honesty
+
+Collaborating on homework is fine but copying is NOT. At the same time, you should not share your homework answers directly with others. Please feel free to discuss the problems with others, but not the solutions. If you suspect other people may be plagiarizing you, let me know as soon as possible. 
+
+Cheating in any form will be strictly prohibited. Anyone found cheating will get an 0 for the corresponding score, and will be reported to the students conduct center. If you are having trouble with assignments or studying for an exam, or if you are uncertain about permissible and impermissible conduct or collaboration, please come to me with your questions.
+
+#### Email Policy
+
+I encourage you to ask questions about the syllabus, covered material, and homeworks during lectures. However, if office hours conflict with your schedule, please use email to set up a one-on-one meeting with me. Use the subject line "DiscreteMath Meeting Request" for your message, and please include a brief description of the reason for the meeting.
