@@ -26,10 +26,14 @@ Recommended reading:
 
 ### Lecture 17: Modeling Computation
 
-### Lecture 18, 19, 20: Graph Theory
+### Lecture 18: Midterm Overview
 
-### Lecture 21, 22: Trees
+### Lecture 19, 20, 21: Graph Theory
 
-### Lecture 23, 24: Functions and Relations
+### Lecture 22, 23: Trees
+
+### Lecture 24, 25: Functions and Relations
+
+### Lecture 26, 27: Final Overview
 
 [Back](/index.md)
