@@ -39,7 +39,7 @@ Further references will be given in due course.
 There will be one midterm and one final exams.
 
 The total score of this course consists of the following:
-+ 10% Attendance (randomly checked)
++ 10% Attendance
 + 25% Homework
 + 25% Midterm
 + 40% Final
