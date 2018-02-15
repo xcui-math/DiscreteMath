@@ -14,23 +14,23 @@ Recommended reading:
 
 ### Lecture 4, 5: Proof
 
-[Problem Set 1]()
+[Problem Set 1]() —— 请用白色A4至A5大小的白色纸张书写或者打印，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
 ### Lecture 6, 7: Algothrims
 
 ### Lecture 8, 9: Counting
 
-[Problem Set 2]()
+[Problem Set 2]() —— 请用白色A4至A5大小的白色纸张书写或者打印，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
 ### Lecture 10, 11: Finite Probability
 
 ### Lecture 12, 13: Recursion
 
-[Problem Set 3]()
+[Problem Set 3]() —— 请用白色A4至A5大小的白色纸张书写或者打印，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
 ### Lecture 14, 15, 16: Combinatorics
 
-[Problem Set 4]()
+[Problem Set 4]() —— 请用白色A4至A5大小的白色纸张书写或者打印，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
 ### Lecture 17: Modeling Computation
 
@@ -38,15 +38,15 @@ Recommended reading:
 
 ### Lecture 19, 20, 21: Graph Theory
 
-[Problem Set 5]()
+[Problem Set 5]() —— 请用白色A4至A5大小的白色纸张书写或者打印，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
 ### Lecture 22, 23: Trees
 
-[Problem Set 6]()
+[Problem Set 6]() —— 请用白色A4至A5大小的白色纸张书写或者打印，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
 ### Lecture 24, 25: Functions and Relations
 
-[Problem Set 7]()
+[Problem Set 7]() —— 请用白色A4至A5大小的白色纸张书写或者打印，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
 ### Lecture 26, 27: Final Overview
 
