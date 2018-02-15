@@ -14,15 +14,23 @@ Recommended reading:
 
 ### Lecture 4, 5: Proof
 
+[Problem Set 1]()
+
 ### Lecture 6, 7: Algothrims
 
 ### Lecture 8, 9: Counting
+
+[Problem Set 2]()
 
 ### Lecture 10, 11: Finite Probability
 
 ### Lecture 12, 13: Recursion
 
+[Problem Set 3]()
+
 ### Lecture 14, 15, 16: Combinatorics
+
+[Problem Set 4]()
 
 ### Lecture 17: Modeling Computation
 
@@ -30,9 +38,15 @@ Recommended reading:
 
 ### Lecture 19, 20, 21: Graph Theory
 
+[Problem Set 5]()
+
 ### Lecture 22, 23: Trees
 
+[Problem Set 6]()
+
 ### Lecture 24, 25: Functions and Relations
+
+[Problem Set 7]()
 
 ### Lecture 26, 27: Final Overview
 
