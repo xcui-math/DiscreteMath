@@ -50,7 +50,7 @@ The total score of this course consists of the following:
 
 Homeworks will be assigned almost every two weeks, and will be posted on this webpage. The assigned problems are due every other Friday in-class. Students must make arrangements in advance if they will not be handing in homework on time. Please don't wait until the last hour to do the homework.
 
-Each assignment will be graded out of 10 points: 5 points for making a good effort at completing each part of the homework with easily recognizable handwrittings, 2 points for technically-correctness in your solutions, and 3 points for clear descriptions, interpretations and explanations.
+Each assignment will be graded out of 10 points: 5 points for making a good effort at completing each part of the homework, 2 points for technically-correctness in your solutions, and 3 points for clear descriptions, interpretations and explanations with easily recognizable handwritting.
 
 You are encouraged to discuss about homeowork problems with others, but each one of you must write your own answers (using your own words). Copy and plagiarism will not be tolerated (see Academic Honesty policy).
 
