@@ -20,6 +20,8 @@ Office Hour: Friday 13:00 - 14:30pm in my office, and before/after lectures in t
 
 ### Prerequisites
 
+High school Mathematics; first year calculus and algebra courses would be helpful, but not necessary.
+
 ### Textbooks
 
 The official textbook is 
