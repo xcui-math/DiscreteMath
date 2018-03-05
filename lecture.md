@@ -16,7 +16,7 @@ Recommended reading:
 
 [Problem Set 1]() —— 请用白色A4至A5大小的白色纸张书写或者打印，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
-### Lecture 6, 7: Algothrims
+### Lecture 6, 7: Algorithms
 
 ### Lecture 8, 9: Counting
 
