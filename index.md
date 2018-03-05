@@ -36,7 +36,7 @@ Further references will be given in due course.
 
 ### Exams & Scores
 
-There will be one midterm and one final exams.
+There will be one midterm and one final exams. The exams are closed-book, but you are allowed to prepare your own cheatsheet on one A4 paper.
 
 The total score of this course consists of the following:
 + 10% Attendance
