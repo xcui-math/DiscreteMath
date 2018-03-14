@@ -10,7 +10,7 @@ Further recommended reading:
 + David Austin, [The stable marriage problem and school choice](http://www.ams.org/publicoutreach/feature-column/fc-2015-03). The article is in English and pretty long, but please do not be terrified. I hope that you can enjoy the process of trying to read (even small parts) of it!
 + 如果你喜欢玩旅行青蛙（旅かえる），不妨读一下这篇[技术分析](https://www.zhihu.com/question/68733553/answer/305463907)。以后我们会学到图论和相关算法。
 
-### Lecture 2, 3: Sets, Logic and Boolean Algebras
+### Lecture 2, 3, 4: Sets, Logic and Boolean Algebras
 
 #### March 9, 2018
 
@@ -20,9 +20,17 @@ Recommended exercise:
 + Finish the exercises given during the lecture.
 + 阅读教材的相关内容————对同样的内容通过不同的方式（听课，阅读不同版本的文献，查询[Wikipedia](https://en.wikipedia.org/)等等）进行学习可以加深理解，巩固基础。
 
-A brief summary of the lectures can be found [here](/Lecture_Notes_1.pdf): last updated: Mar 10, 2018. 
+#### March 12, 2018
 
-### Lecture 4, 5: Proof
+Implication and bicondition; statements viewed as "constant" operations and the tree graph to denote compound operations. Boolean algebras, revisiting the example from set theory and propositional logic, and its theoretical importance. Then we moved to the introduction of predicate logic.
+
+#### March 16, 2018
+
+Predicate logic; review and exercises.
+
+Lecture notes can be found [here](/Lecture_Notes.pdf): last updated: Mar 14, 2018. 
+
+### Lecture 5: Proof
 
 [Problem Set 1]() —— 请用白色A4至A5大小的白色纸张书写或者打印，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
