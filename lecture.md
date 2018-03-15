@@ -12,6 +12,8 @@ Further recommended reading:
 
 ### Lecture 2, 3, 4: Sets, Logic and Boolean Algebras
 
+Lecture notes can be found [here](/Lecture_Notes.pdf): last updated: Mar 14, 2018. 
+
 #### March 9, 2018
 
 An introductory lecture about set theory and propositional logic (unfinished). We started from the relevant definition about sets, various m-nary operations and results about commutativity, associativity and distributivity. The motivation of propositional logic, various m-nary operations on it, and the truth table.
@@ -26,9 +28,7 @@ Implication and bicondition; statements viewed as "constant" operations and the 
 
 #### March 16, 2018
 
-Predicate logic; review and exercises.
-
-Lecture notes can be found [here](/Lecture_Notes.pdf): last updated: Mar 14, 2018. 
+Predicate logic: the quantifiers, their domain and computation rules; Exercises; further applications: Island with inhabitants, logic circuit, and [Sudoku](https://en.wikipedia.org/wiki/Sudoku).
 
 ### Lecture 5: Proof
 
