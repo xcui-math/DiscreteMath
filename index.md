@@ -6,6 +6,8 @@ This is the webpage for the course Discete Mathematics at Sun Yat-sen University
 
 The latest lecture info can be found [here](/lecture.md).
 
+[第一次作业, 3月23日交](/homework_set_1.pdf) —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
+
 ### Instructor
 
 Xiaoyi Cui
