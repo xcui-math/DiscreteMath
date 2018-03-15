@@ -12,7 +12,7 @@ Further recommended reading:
 
 ### Lecture 2, 3, 4: Sets, Logic and Boolean Algebras
 
-Lecture notes can be found [here](/Lecture_Notes.pdf): last updated: Mar 14, 2018. 
+Lecture notes can be found [here](/Lecture_Notes.pdf): last updated: Mar 16, 2018. 
 
 #### March 9, 2018
 
