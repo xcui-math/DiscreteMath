@@ -41,7 +41,7 @@ However, I will also follow parts of
 
 This book is very well-written, but is quite expensive to buy in China. It is absolutely possible to excel at this course without buying it.
 
-Further references will be given in due course.
+[Further references and lecture notes](/lecture.md) will be provided in due course.
 
 ### Exams & Scores
 
