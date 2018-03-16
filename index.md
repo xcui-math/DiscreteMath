@@ -1,3 +1,4 @@
+
 ## Discrete Mathematics, 2018 Spring
 
 This is the webpage for the course Discete Mathematics at Sun Yat-sen University (Zhuhai campus), aiming for the first year Math majors.
@@ -6,7 +7,9 @@ This is the webpage for the course Discete Mathematics at Sun Yat-sen University
 
 The latest lecture info can be found [here](/lecture.md).
 
-[第一次作业, 3月23日交](/homework_set_1.pdf) —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
+课程讲义：[1](/Lecture_Notes.pdf)
+
+作业：[1, 3月23日交](/homework_set_1.pdf) —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
 ### Instructor
 
@@ -19,6 +22,8 @@ xiaoyicui@outlook.com
 Office Hour: Friday 13:00 - 14:30pm in my office, and before/after lectures in the classroom.
 
 ### Objectives
+
+This course covers several topics such as logic, altorithm, counting, finite probably, models of computation and graph theory. The aim is two-folded. First, it serves as an introductory for the subsequent courses on each individual subjects. Second, we high light the use of mathematical structures and thinking in the process, so it provides us a systematic way to see how mathematical theories are developed in each cases. The lecture carries a little bit more the "top-down" flavor, meaning we shall start by introducing objects and axioms, and then all the properties and important results are derived from the axioms. On the other hand, our textbook provides a nice illustration of the "bottom-up" approach, which starts with discussion on explicitly properties and results first without giving axioms. It is desirable to study the subject using both points of view.
 
 ### Prerequisites
 
