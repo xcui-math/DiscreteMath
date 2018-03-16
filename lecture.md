@@ -32,6 +32,7 @@ Predicate logic: the quantifiers, their domain and computation rules; Exercises;
 
 [Problem Set 1, due March 23](/homework_set_1.pdf) —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
+一班的同学：课上关于布尔代数的例题，证明过程中用到的结果补在[讲义](/Lecture_Notes.pdf)第四页下方，抱歉给你们造成的困扰！
 
 ### Lecture 5: Proof
 
