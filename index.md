@@ -1,4 +1,4 @@
-
+ 
 ## Discrete Mathematics, 2018 Spring
 
 This is the webpage for the course Discete Mathematics at Sun Yat-sen University (Zhuhai campus), aiming for the first year Math majors.
@@ -39,7 +39,7 @@ However, I will also follow parts of
 
 [Discrete Mathematics with Proof (2nd Edition)](https://www.amazon.cn/dp/0470457937/), Eric Gossett, John Wiley & Sons, Jun 22, 2009.
 
-This book is very well-written, but is quite expensive to buy in China. It is absolutely possible to excel at this course without buying it.
+This book is very well-written, but is quite expensive to buy in China. It is absolutely possible to excel at this course without buying it. Even if you do not own a copy of it, it is still benefitial to have a look at the [supporting materials](http://www.mathcs.bethel.edu/~gossett/DiscreteMathWithProof/) provided generously by the author.
 
 [Further references and lecture notes](/lecture.md) will be provided in due course.
 
