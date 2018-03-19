@@ -34,10 +34,17 @@ Predicate logic: the quantifiers, their domain and computation rules; Exercises;
 
 一班的同学：课上关于布尔代数的例题，证明过程中用到的结果补在[讲义](/Lecture_Notes.pdf)第四页下方，抱歉给你们造成的困扰！
 
-### Lecture 5: Proof
+### Lecture 5, 6, 7: Proof and Algorithms
 
+Lecture notes can be found [here](/Lecture_Notes_1.pdf): last updated: Mar 19, 2018. 
 
-### Lecture 6, 7: Algorithms
+#### March 19, 2018
+This is an introductory lecture about theory of proofs. Firstly we shall introduce the axiomatic formulation of mathematical theories, and give examples. Then, several ways of giving proofs. Lastly, we shall introduce the Well-ordered Principle (WOP), the Mathematical Induction (MI) and the Complete Induction (CI) and show their equivalence.  
+
+Recommended reading:
++ Read about the [common proof strategies](http://www.mathcs.bethel.edu/~gossett/DiscreteMathWithProof/ProofStrategies.pdf) and the [common errors in proof](http://www.mathcs.bethel.edu/~gossett/DiscreteMathWithProof/CommonErrorsInProofs.pdf). Try to come up with more items to the lists if you can.
++ Read Section 1-8 (pp. 40) and 2-7 (pp. 75) of the text book.
+
 
 ### Lecture 8, 9: Counting
 
