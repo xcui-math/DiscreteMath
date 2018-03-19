@@ -46,13 +46,13 @@ Recommended reading:
 + Read Section 1-8 (pp. 40) and 2-7 (pp. 75) of the text book.
 
 
-### Lecture 8, 9: Counting
+### Lecture 8, 9: Recursion
 
 [Problem Set 2, due April 6]() —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
-### Lecture 10, 11: Finite Probability
+### Lecture 10, 11: Counting
 
-### Lecture 12, 13: Recursion
+### Lecture 12, 13: Finite Probability
 
 [Problem Set 3, due April 20]() —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
