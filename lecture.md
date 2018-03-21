@@ -45,6 +45,9 @@ Recommended reading:
 + Read about the [common proof strategies](http://www.mathcs.bethel.edu/~gossett/DiscreteMathWithProof/ProofStrategies.pdf) and the [common errors in proof](http://www.mathcs.bethel.edu/~gossett/DiscreteMathWithProof/CommonErrorsInProofs.pdf). Try to come up with more items to the lists if you can.
 + Read Section 1-8 (pp. 40) and 2-7 (pp. 75) of the text book.
 
+#### March 23, 2018
+
+Theoretical aspects of algorithms: from Halting problem to Godel's incompleteness theorem. Some relevant materials of the lecture can be found [here](http://www.math.hawaii.edu/~dale/godel/godel.html).
 
 ### Lecture 8, 9: Recursion
 
