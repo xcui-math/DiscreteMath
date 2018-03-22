@@ -36,7 +36,7 @@ Predicate logic: the quantifiers, their domain and computation rules; Exercises;
 
 ### Lecture 5, 6, 7: Proof and Algorithms
 
-Lecture notes can be found [here](/Lecture_Notes_1.pdf): last updated: Mar 19, 2018. 
+Lecture notes can be found [here](/Lecture_Notes_1.pdf): last updated: Mar 23, 2018. 
 
 #### March 19, 2018
 This is an introductory lecture about theory of proofs. Firstly we shall introduce the axiomatic formulation of mathematical theories, and give examples. Then, several ways of giving proofs. Lastly, we shall introduce the Well-ordered Principle (WOP), the Mathematical Induction (MI) and the Complete Induction (CI) and show their equivalence.  
@@ -47,7 +47,7 @@ Recommended reading:
 
 #### March 23, 2018
 
-Theoretical aspects of algorithms: from Halting problem to Godel's incompleteness theorem. Some relevant materials of the lecture can be found [here](http://www.math.hawaii.edu/~dale/godel/godel.html).
+Computability and provability: Sequence, programs, partial functions, Halting problem, Goedel's incompleteness theorems. Some relevant materials of the lecture can be found [here](http://www.math.hawaii.edu/~dale/godel/godel.html).
 
 ### Lecture 8, 9: Recursion
 
