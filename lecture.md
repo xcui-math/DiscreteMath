@@ -49,15 +49,19 @@ Recommended reading:
 
 Computability and provability: Sequence, programs, partial functions, Halting problem, Goedel's incompleteness theorems. Some relevant materials of the lecture can be found [here](http://www.math.hawaii.edu/~dale/godel/godel.html).
 
-### Lecture 8, 9: Recursion
+#### March 26, 2018
 
-[Problem Set 2, due April 6]() —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
+Complexity of algorithms and counting critical operations. Then we shall focus on the example of searching and pattern matching problems, the corresponding algorithms involve sequential search, binary searching, Knuth-Morris-Pratt and Boyer-Moore.
+
+[Problem Set 2, due April 6](/homework_set_2.pdf) —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
+
+### Lecture 8, 9: Recursion
 
 ### Lecture 10, 11: Counting
 
-### Lecture 12, 13: Finite Probability
-
 [Problem Set 3, due April 20]() —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
+
+### Lecture 12, 13: Finite Probability
 
 ### Lecture 14, 15, 16: Combinatorics
 
