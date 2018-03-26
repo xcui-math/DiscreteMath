@@ -21,7 +21,6 @@ An introductory lecture about set theory and propositional logic (unfinished). W
 Recommended exercise:
 + Finish the exercises given during the lecture.
 + 阅读教材的相关内容————对同样的内容通过不同的方式（听课，阅读不同版本的文献，查询[Wikipedia](https://en.wikipedia.org/)等等）进行学习可以加深理解，巩固基础。
-
 #### March 12, 2018
 
 Implication and bicondition; statements viewed as "constant" operations and the tree graph to denote compound operations. Boolean algebras, revisiting the example from set theory and propositional logic, and its theoretical importance. Then we moved to the introduction of predicate logic.
@@ -36,7 +35,7 @@ Predicate logic: the quantifiers, their domain and computation rules; Exercises;
 
 ### Lecture 5, 6, 7: Proof and Algorithms
 
-Lecture notes can be found [here](/Lecture_Notes_1.pdf): last updated: Mar 23, 2018. 
+Lecture notes can be found [here](/Lecture_Notes_1.pdf): last updated: Mar 26, 2018. 
 
 #### March 19, 2018
 This is an introductory lecture about theory of proofs. Firstly we shall introduce the axiomatic formulation of mathematical theories, and give examples. Then, several ways of giving proofs. Lastly, we shall introduce the Well-ordered Principle (WOP), the Mathematical Induction (MI) and the Complete Induction (CI) and show their equivalence.  
@@ -48,6 +47,9 @@ Recommended reading:
 #### March 23, 2018
 
 Computability and provability: Sequence, programs, partial functions, Halting problem, Goedel's incompleteness theorems. Some relevant materials of the lecture can be found [here](http://www.math.hawaii.edu/~dale/godel/godel.html).
+
+Recommended Reading:
++ If you are curious and ambitious, try to read [the AMS notes by Martin Davis](www.ams.org/notices/200604/fea-davis.pdf).
 
 #### March 26, 2018
 
