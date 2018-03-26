@@ -48,7 +48,7 @@ Recommended reading:
 
 Computability and provability: Sequence, programs, partial functions, Halting problem, Goedel's incompleteness theorems. Some relevant materials of the lecture can be found [here](http://www.math.hawaii.edu/~dale/godel/godel.html).
 
-Recommended Reading:
+Further Reading:
 + If you are curious and ambitious, try to read [the AMS notes by Martin Davis](www.ams.org/notices/200604/fea-davis.pdf).
 
 #### March 26, 2018
