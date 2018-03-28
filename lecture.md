@@ -33,7 +33,7 @@ Predicate logic: the quantifiers, their domain and computation rules; Exercises;
 
 一班的同学：课上关于布尔代数的例题，证明过程中用到的结果补在[讲义](/Lecture_Notes.pdf)第四页下方，抱歉给你们造成的困扰！
 
-### Lecture 5, 6, 7: Proof and Algorithms
+### Lecture 5, 6, 7, 8: Proof and Algorithms
 
 Lecture notes can be found [here](/Lecture_Notes_1.pdf): last updated: Mar 26, 2018. 
 
@@ -49,29 +49,29 @@ Recommended reading:
 Computability and provability: Sequence, programs, partial functions, Halting problem, Goedel's incompleteness theorems. Some relevant materials of the lecture can be found [here](http://www.math.hawaii.edu/~dale/godel/godel.html).
 
 Further Reading:
-+ If you are curious and ambitious, try to read [the AMS notes by Martin Davis](www.ams.org/notices/200604/fea-davis.pdf).
++ If you are curious and ambitious, try to read [the AMS notes by Martin Davis](http://www.ams.org/notices/200604/fea-davis.pdf).
 
 #### March 26, 2018
 
-Complexity of algorithms and counting critical operations. Then we shall focus on the example of searching and pattern matching problems, the corresponding algorithms involve sequential search, binary searching, Knuth-Morris-Pratt and Boyer-Moore.
+Two ways of encoding finite sequences in natural numbers: prime factorization and Goedel's function (using Chinese Remainder Theorem). Complexity of algorithms and counting critical operations. Then we shall focus on the example of searching and pattern matching problems, the corresponding algorithms involve sequential search, binary searching.
 
 [Problem Set 2, due April 8](/homework_set_2.pdf) —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
-### Lecture 8, 9: Recursion
+#### March 30, 2018
 
-### Lecture 10, 11: Counting
+Pattern matching: Knuth-Morris-Pratt, Boyer-Moore and a bit more about complexity analysis. There are many references online about those two algorithms, I shall loosely follow the notes of Hans Werner Lang, which you can find [here](http://www.inf.fh-flensburg.de/lang/algorithmen/pattern/kmpen.htm) and [here](http://www.inf.fh-flensburg.de/lang/algorithmen/pattern/bmen.htm).
+
+这两种算法的中文资料颇多，请有兴趣的同学自行选阅文献，不再赘述。
+
+### Lecture 9, 10, 11, 12: Recursion and Modeling Computation
 
 [Problem Set 3, due April 20]() —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
-### Lecture 12, 13: Finite Probability
-
-### Lecture 14, 15, 16: Combinatorics
+### Lecture 13, 14, 15, 16: Counting and Combinatorics
 
 [Problem Set 4, due May 4]() —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
-### Lecture 17: Modeling Computation
-
-### Lecture 18: Midterm Overview
+### Lecture 17, 18: Midterm Overview
 
 ### Lecture 19, 20, 21: Graph Theory
 
