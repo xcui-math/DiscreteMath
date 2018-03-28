@@ -55,7 +55,7 @@ Further Reading:
 
 Complexity of algorithms and counting critical operations. Then we shall focus on the example of searching and pattern matching problems, the corresponding algorithms involve sequential search, binary searching, Knuth-Morris-Pratt and Boyer-Moore.
 
-[Problem Set 2, due April 6](/homework_set_2.pdf) —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
+[Problem Set 2, due April 8](/homework_set_2.pdf) —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
 ### Lecture 8, 9: Recursion
 
