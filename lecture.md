@@ -57,6 +57,8 @@ Two ways of encoding finite sequences in natural numbers: prime factorization an
 
 [Problem Set 2, due April 8](/homework_set_2.pdf) —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
+作业提示：有些代码中critical operations可能不止一个，在这种情况下需要针对每一个critical operation计算执行的具体次数。例如，2(c)中第7，8和9行的操作都是critical operation。
+
 #### March 30, 2018
 
 Pattern matching: Knuth-Morris-Pratt --- I loosely follow the notes of Hans Werner Lang, which you can find [here](http://www.inf.fh-flensburg.de/lang/algorithmen/pattern/kmpen.htm). The border is a special repeating structure one can find on a string, or a substring. In our case, we are interested in the borders of preffix of a pattern. The KMP algorithm consists of two parts: the computation of the table b\[m\] and the searching part.
