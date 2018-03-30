@@ -59,9 +59,13 @@ Two ways of encoding finite sequences in natural numbers: prime factorization an
 
 #### March 30, 2018
 
-Pattern matching: Knuth-Morris-Pratt, Boyer-Moore and a bit more about complexity analysis. There are many references online about those two algorithms, I shall loosely follow the notes of Hans Werner Lang, which you can find [here](http://www.inf.fh-flensburg.de/lang/algorithmen/pattern/kmpen.htm) and [here](http://www.inf.fh-flensburg.de/lang/algorithmen/pattern/bmen.htm).
+Pattern matching: Knuth-Morris-Pratt --- I loosely follow the notes of Hans Werner Lang, which you can find [here](http://www.inf.fh-flensburg.de/lang/algorithmen/pattern/kmpen.htm). The border is a special repeating structure one can find on a string, or a substring. In our case, we are interested in the borders of preffix of a pattern. The KMP algorithm consists of two parts: the computation of the table b\[m\] and the searching part.
 
-这两种算法的中文资料颇多，请有兴趣的同学自行选阅文献，不再赘述。
+计算b\[m\]代码的简单解释：假设我们已知b[0]到b[i]的值，也就知道了p[m]中p[i]之前的前缀所含有的最大配边(border)。那么p[0:i]的最大配边要么从p[0:(i－1)]的最大配边被p[i]延伸(extend)出来，或者是从p[0:(i－1)]的小一些的配边被p[i]延伸(extend)出来。可以延伸的语句判定就是p[i]==p[j]，而如果最大配边不能延伸，寻找次一级配边的长度，则需要用到j=b[j]语句。
+
+Recommended readings:
++ [Boyer-Moore algorithm](http://www.inf.fh-flensburg.de/lang/algorithmen/pattern/bmen.htm), which is considered to be the most efficient method. It combines the shift table method as in KMP (although the comparison is right-to-left), as well as the last table. 
++ 这两种算法的中文资料颇多，请有兴趣的同学自行选阅文献，不再赘述。
 
 ### Lecture 9, 10, 11, 12: Recursion and Modeling Computation
 
