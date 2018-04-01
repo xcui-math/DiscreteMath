@@ -65,7 +65,7 @@ Pattern matching: Knuth-Morris-Pratt --- I loosely follow the notes of Hans Wern
 
 计算b[m]代码的简单解释：假设我们已知b[0]到b[i]的值，也就知道了p[m]中p[i]之前的前缀所含有的最大配边(border)。那么p[0:i]（亦即由p[0], p[1],...,p[i]组成的前缀）的最大配边要么从p[0:(i－1)]的最大配边被p[i]延伸(extend)出来，或者是从p[0:(i－1)]的小一些的配边被p[i]延伸(extend)出来。可以延伸的语句判定就是p[i]==p[j]，而如果最大配边不能延伸，寻找次一级配边的长度，则需要用到j=b[j]语句。
 
-Recommended readings:
+Further readings:
 + [Boyer-Moore algorithm](http://www.inf.fh-flensburg.de/lang/algorithmen/pattern/bmen.htm), which is considered to be the most efficient method. It combines the shift table method as in KMP (although the comparison is right-to-left), as well as the last table. 阅读提示：我们课上没有讲KMP中shift table的计算代码。但在BM算法中bmPreprocess1()和bmPreprocess2()给出了怎样由配边理论得出shift table的代码；这段代码有助于理解为什么KMP算法亦可以由shift table构造。
 + 这两种算法的中文资料颇多，请有兴趣的同学自行选阅文献，不再赘述。
 
