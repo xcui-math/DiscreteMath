@@ -35,7 +35,7 @@ Predicate logic: the quantifiers, their domain and computation rules; Exercises;
 
 ### Lecture 5, 6, 7, 8: Proof and Algorithms
 
-Lecture notes can be found [here](/Lecture_Notes_1.pdf): last updated: Mar 26, 2018. 
+Lecture notes can be found [here](/Lecture_Notes_1.pdf): last updated: Mar 30, 2018. 
 
 #### March 19, 2018
 This is an introductory lecture about theory of proofs. Firstly we shall introduce the axiomatic formulation of mathematical theories, and give examples. Then, several ways of giving proofs. Lastly, we shall introduce the Well-ordered Principle (WOP), the Mathematical Induction (MI) and the Complete Induction (CI) and show their equivalence.  
@@ -70,6 +70,8 @@ Recommended readings:
 + 这两种算法的中文资料颇多，请有兴趣的同学自行选阅文献，不再赘述。
 
 ### Lecture 9, 10, 11, 12: Recursion and Modeling Computation
+
+Lecture notes can be found [here](/Lecture_Notes_2.pdf): last updated: Apr 1, 2018. 
 
 [Problem Set 3, due April 20]() —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
