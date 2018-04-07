@@ -73,6 +73,16 @@ Further readings:
 
 Lecture notes can be found [here](/Lecture_Notes_2.pdf): last updated: Apr 1, 2018. 
 
+#### April 2, 2018
+
+Reviewing the KMP algorithms, and the instruction for the second homework. Then we moved to the new section on recursion, its application in programming, and then the recursive sequence. For homognenous linear recursive relation of degree k, there is a general method of solving it using character equation, given that the character equation (degree k) has k distinct roots.
+
+#### April 8, 2018
+
+Continue on the recursive relation: solving them using generating functions, and the Tower of Hanoi puzzle.
+
+#### April 9, 2018
+
 [Problem Set 3, due April 20]() —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
 ### Lecture 13, 14, 15, 16: Counting and Combinatorics
