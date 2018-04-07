@@ -85,13 +85,29 @@ Continue on the recursive relation: solving them using generating functions, the
 
 [Problem Set 3, due April 20]() —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
+#### April 13, 2018
+
 ### Lecture 13, 14, 15, 16: Counting and Combinatorics
+
+#### April 16, 2018
+
+#### April 20, 2018
+
+#### April 23, 2018
+
+#### April 27, 2018
 
 [Problem Set 4, due May 4]() —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
 ### Lecture 17, 18: Midterm Overview
 
+#### April 28, 2018
+
+#### May 4, 2018
+
 ### Lecture 19, 20, 21: Graph Theory
+
+#### May 18, 2018
 
 [Problem Set 5, due June 1]() —— 请用白色A4至A5大小的白色纸张书写或者打印，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
