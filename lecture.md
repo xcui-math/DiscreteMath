@@ -71,7 +71,7 @@ Further readings:
 
 ### Lecture 9, 10, 11, 12: Recursion and Modeling Computation
 
-Lecture notes can be found [here](/Lecture_Notes_2.pdf): last updated: Apr 1, 2018. 
+Lecture notes can be found [here](/Lecture_Notes_2.pdf): last updated: Apr 7, 2018. 
 
 #### April 2, 2018
 
