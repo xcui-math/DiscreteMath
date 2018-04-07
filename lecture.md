@@ -79,7 +79,7 @@ Reviewing the KMP algorithms, and the instruction for the second homework. Then 
 
 #### April 8, 2018
 
-Continue on the recursive relation: solving them using generating functions, and the Tower of Hanoi puzzle.
+Continue on the recursive relation: solving them using generating functions, the Tower of Hanoi puzzle, and (if time permits) the Sierpiński curve.
 
 #### April 9, 2018
 
