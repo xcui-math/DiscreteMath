@@ -51,6 +51,7 @@ Computability and provability: Sequence, programs, partial functions, Halting pr
 Further Reading:
 + If you are curious and ambitious, try to read [the AMS notes by Martin Davis](http://www.ams.org/notices/200604/fea-davis.pdf).
 
+
 #### March 26, 2018
 
 Two ways of encoding finite sequences in natural numbers: prime factorization and Goedel's function (using Chinese Remainder Theorem). Complexity of algorithms and counting critical operations. Then we shall focus on the example of searching and pattern matching problems, the corresponding algorithms involve sequential search, binary searching.
@@ -79,7 +80,11 @@ Reviewing the KMP algorithms, and the instruction for the second homework. Then 
 
 #### April 8, 2018
 
-Continue on the recursive relation: solving them using generating functions, the Tower of Hanoi puzzle, and (if time permits) the Sierpiński curve.
+Continue on the recursive relation: solving them using generating functions （发生函数/生成函数/母函数）. The general theory of generating functions, manipulations involving shifting, multiplication and derivation. Examples of solving non-honomeneous, non-constant coefficient recursive relations.
+
+Recommended Reading:
++ The general theory of generating functions is also covered in [this notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/readings/ln11.pdf), so if you are not sure about what we covered in class, please refer to it.
++ Please make sure that you could follow all the calculation examples showed in class.
 
 #### April 9, 2018
 
