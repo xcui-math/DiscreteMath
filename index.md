@@ -9,7 +9,7 @@ The latest lecture info can be found [here](/lecture.md).
 
 课程讲义：[第一部分](/Lecture_Notes.pdf), [第二部分](/Lecture_Notes_1.pdf), [第三部分](/Lecture_Notes_2.pdf)
 
-作业：[第一次---3月23日交](/homework_set_1.pdf), [第二次---4月8日交](/homework_set_2.pdf), [第三次---4月20日交](/homework_set_2.pdf) —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
+作业：[第一次---3月23日交](/homework_set_1.pdf), [第二次---4月8日交](/homework_set_2.pdf), [第三次---4月20日交](/homework_set_3.pdf) —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
 第二次作业提示：有些代码中critical operations可能不止一个，在这种情况下需要针对每一个critical operation计算执行的具体次数。例如，2(c)中第7，8和9行的操作都是critical operation。另外，最后一道练习题已修改，BM算法相关计算不作要求。
 
