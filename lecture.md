@@ -88,7 +88,13 @@ Recommended Reading:
 
 #### April 9, 2018
 
-[Problem Set 3, due April 20]() —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
+We introduced the theory of formal languages, the binary and unary operation on them, and the compatibility. Then we started to talk a bit about formal grammar. 
+
+Recommended Readings:
++ 阅读教科书第八章前两节的内容，证明定理8-1.4。
++ There are many interesting [applications](http://web.cs.ucdavis.edu/~rogaway/classes/120/spring13/eric-dfa.pdf) of the theory of automata, even in [Biology](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
+
+[Problem Set 3, due April 20](/homework_set_3.pdf) —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
 #### April 13, 2018
 
@@ -101,12 +107,6 @@ Recommended Reading:
 #### April 23, 2018
 
 #### April 27, 2018
-
-We introduced the theory of formal languages, the binary and unary operation on them, and the compatibility. Then we started to talk a bit about formal grammar. 
-
-Recommended Readings:
-+ 阅读教科书第八章前两节的内容，证明定理8-1.4。
-+ There are many interesting [applications](http://web.cs.ucdavis.edu/~rogaway/classes/120/spring13/eric-dfa.pdf) of the theory of automata, even in [Biology](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
 [Problem Set 4, due May 4]() —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
