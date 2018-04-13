@@ -70,6 +70,7 @@ Further readings:
 + [Boyer-Moore algorithm](http://www.inf.fh-flensburg.de/lang/algorithmen/pattern/bmen.htm), which is considered to be the most efficient method. It combines the shift table method as in KMP (although the comparison is right-to-left), as well as the last table. 阅读提示：我们课上没有讲KMP中shift table的计算代码。但在BM算法中bmPreprocess1()和bmPreprocess2()给出了怎样由配边理论得出shift table的代码；这段代码有助于理解为什么KMP算法亦可以由shift table构造。
 + 这两种算法的中文资料颇多，请有兴趣的同学自行选阅文献，不再赘述。
 
+
 ### Lecture 9, 10, 11, 12: Recursion and Modeling Computation
 
 Lecture notes can be found [here](/Lecture_Notes_2.pdf): last updated: Apr 7, 2018. 
@@ -98,9 +99,19 @@ Recommended Readings:
 
 #### April 13, 2018
 
+Context-Free (CF) Grammar, and Regular CF Grammar and Regular CF Languages. Examples involve the left-(resp. right-)most linear derivation grammar. Finite Automata, including the Deterministic Finite Automata (DFA) and the Nondeterministic Finite Automata (NFA), their acceptible languages. Theorem 1 says that {L(M)|M is any NFA} is a subset of {L(M)|M is any DFA}. Then Kleene's theorem gives the equivalences of the aforementioned two sets, and with the RCF language, i.e., {L(G)|G is regular CF grammar}.
+
+注意：DFA和NFA对应于课本8-6中定义的两类状态接收器，唯一的曲别在于，课本要求初态是一个集合。但核心定理的证明思路不变，且这里的情况更为简洁。
+
+Recommended Readings:
++ 关于自动机理论的应用，参见上次课给的阅读建议。
++ 这一部分内容会应用集合论的基本知识，建议复习以前集合论讲过的内容，并阅读教材第三章的相关章节。
+
 ### Lecture 13, 14, 15, 16: Counting and Combinatorics
 
 #### April 16, 2018
+
+Kleene定理的证明。
 
 #### April 20, 2018
 
