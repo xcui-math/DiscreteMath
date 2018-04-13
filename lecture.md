@@ -99,9 +99,9 @@ Recommended Readings:
 
 #### April 13, 2018
 
-Context-Free (CF) Grammar, and Regular CF Grammar and Regular CF Languages. Examples involve the left-(resp. right-)most linear derivation grammar. Finite Automata, including the Deterministic Finite Automata (DFA) and the Nondeterministic Finite Automata (NFA), their acceptible languages. Theorem 1 says that {L(M)|M is any NFA} is a subset of {L(M)|M is any DFA}. Then Kleene's theorem gives the equivalences of the aforementioned two sets, and with the RCF language, i.e., {L(G)|G is regular CF grammar}.
+Context-Free (CF) Grammar 上下文无关文法, and Regular Grammar and Regular Languages 正则文法和正则语言. Examples involve the left-(resp. right-)most linear derivation grammar 左（右）线性文法. Finite Automata, including the Deterministic Finite Automata (DFA) and the Nondeterministic Finite Automata (NFA), their acceptible languages. Theorem 1 says that {L(M)|M is any NFA} is a subset of {L(M)|M is any DFA}. Then Kleene's theorem gives the equivalences of the aforementioned two sets, and with the RCF language, i.e., {L(G)|G is any Regular Grammar}.
 
-注意：DFA和NFA对应于课本8-6中定义的两类状态接收器，唯一的曲别在于，课本要求初态是一个集合。但核心定理的证明思路不变，且这里的情况更为简洁。
+注意：DFA和NFA对应于教材8-6中定义的两类状态接收器，唯一的曲别在于，教材要求初态是一个态的集合，而我们只要求是一个态。但核心定理的证明思路不变，我们课上讲的情况更为简洁，且与教材中的定义等价。
 
 Recommended Readings:
 + 关于自动机理论的应用，参见上次课给的阅读建议。
