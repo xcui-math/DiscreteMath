@@ -111,7 +111,7 @@ Recommended Readings:
 
 #### April 16, 2018
 
-Finishing up the proof of Kleene's theorem. Pumping lemma, further examples, and instructions on the 3rd problem set.
+Finishing up the proof of Kleene's theorem. [Pumping lemma](https://baike.baidu.com/item/%E6%B3%B5%E5%BC%95%E7%90%86), further examples, and instructions on the 3rd problem set.
 
 ### Lecture 14, 15, 16: Basic Combinatorics
 
