@@ -73,7 +73,9 @@ Further readings:
 
 ### Lecture 9, 10, 11, 12, 13: Recursion and the theory of Automata
 
-Lecture notes can be found [here](/Lecture_Notes_2.pdf): last updated: Apr 7, 2018. 
+Lecture notes on recursion can be found [here](/Lecture_Notes_2.pdf): last updated: Apr 7, 2018. 
+
+For formal language and automata part, please refer to Section 8-1, 8-2 and 8-6 of the textbook.
 
 #### April 2, 2018
 
@@ -109,7 +111,7 @@ Recommended Readings:
 
 #### April 16, 2018
 
-Finishing up the proof of Kleene's theorem. Further examples, and instructions on the 3rd problem set.
+Finishing up the proof of Kleene's theorem. Pumping lemma, further examples, and instructions on the 3rd problem set.
 
 ### Lecture 14, 15, 16: Basic Combinatorics
 
