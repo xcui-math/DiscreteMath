@@ -117,15 +117,15 @@ Lecture notes can be found [here](/Lecture_Notes_3.pdf): last updated: Apr 15, 2
 
 #### April 20, 2018
 
-Enumeration problem and Stirling numbers.
+Enumeration problem and [Stirling numbers](https://en.wikipedia.org/wiki/Stirling_number).
 
 #### April 23, 2018
 
-Combinatorial designes: Latin square and finite projective planes.
+Combinatorial designes: Latin square and [finite projective planes](https://en.wikipedia.org/wiki/Finite_geometry#Finite_projective_planes).
 
 #### April 27, 2018
 
-Combinatorical optimizational theory: Knapsack problems.
+Combinatorical optimizational theory: [Knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem).
 
 [Problem Set 4, due May 4]() —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
