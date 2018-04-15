@@ -71,7 +71,7 @@ Further readings:
 + 这两种算法的中文资料颇多，请有兴趣的同学自行选阅文献，不再赘述。
 
 
-### Lecture 9, 10, 11, 12: Recursion and Modeling Computation
+### Lecture 9, 10, 11, 12: Recursion and the theory of Automata
 
 Lecture notes can be found [here](/Lecture_Notes_2.pdf): last updated: Apr 7, 2018. 
 
@@ -107,11 +107,13 @@ Recommended Readings:
 + 关于自动机理论的应用，参见上次课给的阅读建议。
 + 这一部分内容会应用集合论的基本知识，建议复习以前集合论讲过的内容，并阅读教材第三章的相关章节。
 
-### Lecture 13, 14, 15, 16: Counting and Combinatorics
-
 #### April 16, 2018
 
 Kleene定理的证明。
+
+### Lecture 14, 15, 16: Basic Combinatorics
+
+Lecture notes can be found [here](/Lecture_Notes_3.pdf): last updated: Apr 15, 2018. 
 
 #### April 20, 2018
 
