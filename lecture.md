@@ -141,16 +141,33 @@ Combinatorical optimizational theory: [Knapsack problem](https://en.wikipedia.or
 
 #### May 18, 2018
 
+#### May 25, 2018
+
+#### June 1, 2018
+
 [Problem Set 5, due June 1]() —— 请用白色A4至A5大小的白色纸张书写或者打印，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
 ### Lecture 22, 23: Trees
+
+#### June 8, 2018
+
+#### June 15, 2018
 
 [Problem Set 6, due June 22]() —— 请用白色A4至A5大小的白色纸张书写或者打印，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
 ### Lecture 24, 25: Functions and Relations
 
+#### June 22, 2018
+
+#### June 29, 2018
+
 [Problem Set 7, due July 13]() —— 请用白色A4至A5大小的白色纸张书写或者打印，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
 ### Lecture 26, 27: Final Overview
+
+#### July 6, 2018
+
+#### July 13, 2018
+
 
 [Back](/index.md)
