@@ -71,7 +71,7 @@ Further readings:
 + 这两种算法的中文资料颇多，请有兴趣的同学自行选阅文献，不再赘述。
 
 
-### Lecture 9, 10, 11, 12: Recursion and the theory of Automata
+### Lecture 9, 10, 11, 12, 13: Recursion and the theory of Automata
 
 Lecture notes can be found [here](/Lecture_Notes_2.pdf): last updated: Apr 7, 2018. 
 
