@@ -76,7 +76,6 @@ Further readings:
 Lecture notes on recursion can be found [here](/Lecture_Notes_2.pdf): last updated: Apr 7, 2018. 
 
 For formal language and automata part, please refer to Section 8-1, 8-2 and 8-6 of the textbook.
-
 #### April 2, 2018
 
 Reviewing the KMP algorithms, and the instruction for the second homework. Then we moved to the new section on recursion, its application in programming, and then the recursive sequence. For homognenous linear recursive relation of degree k, there is a general method of solving it using character equation, given that the character equation (degree k) has k distinct roots.
@@ -101,7 +100,7 @@ Recommended Readings:
 
 #### April 13, 2018
 
-Context-Free (CF) Grammar 上下文无关文法, and Regular Grammar and Regular Languages 正则文法和正则语言. Examples involve the left-(resp. right-)most linear derivation grammar 左（右）线性文法. Finite Automata, including the Deterministic Finite Automata (DFA) and the Nondeterministic Finite Automata (NFA), their acceptible languages. Theorem 1 says that {L(M)$|$M is any NFA} is a subset of {L(M)$|$M is any DFA}. Then Kleene's theorem gives the equivalences of the aforementioned two sets, and with the RCF language, i.e., {L(G)$|$G is any Regular Grammar}.
+Context-Free (CF) Grammar 上下文无关文法, and Regular Grammar and Regular Languages 正则文法和正则语言. Examples involve the left-(resp. right-)most linear derivation grammar 左（右）线性文法. Finite Automata, including the Deterministic Finite Automata (DFA) and the Nondeterministic Finite Automata (NFA), their acceptible languages. Theorem 1 says that {L(M)\|M is any NFA} is a subset of {L(M)\|M is any DFA}. Then Kleene's theorem gives the equivalences of the aforementioned two sets, and with the RCF language, i.e., {L(G)\|G is any Regular Grammar}.
 
 注意：DFA和NFA对应于教材8-6中定义的两类状态接收器，唯一的曲别在于，教材要求初态是一个态的集合，而我们只要求是一个态。但核心定理的证明思路不变，我们课上讲的情况更为简洁，且与教材中的定义等价。
 
