@@ -110,7 +110,14 @@ Recommended Readings:
 
 #### April 16, 2018
 
-Finishing up the proof of Kleene's theorem. [Pumping lemma](https://baike.baidu.com/item/%E6%B3%B5%E5%BC%95%E7%90%86), further examples, and instructions on the 3rd problem set.
+Finishing up the proof of Kleene's theorem, Pumping lemma, Turing Machine, P and NP complexity.
+
+教材中355页对于正则文法的定义有误。正则文法分为左（派生）正则文法和右（派生）正则文法两种，分别对应于生成式形右端的非终结符在最左侧和在最右侧两种情形。这两种文法都可以被线性化，对应于左线性文法和右线性文法。
+
+Recommended Readings:
++ Kleene定理的证明教材8-6亦有给出。
++ 关于泵引理的证明和应用，见[这里](https://baike.baidu.com/item/%E6%B3%B5%E5%BC%95%E7%90%86)。
++ If you have time and are interested, read about [Turing Machine](https://zh.wikipedia.org/wiki/图灵机) and [P/NP problem](https://zh.wikipedia.org/zh-hans/P/NP问题).
 
 ### Lecture 14, 15, 16: Basic Combinatorics
 
