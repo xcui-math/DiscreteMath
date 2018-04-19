@@ -121,7 +121,7 @@ Recommended Readings:
 
 ### Lecture 14, 15, 16: Basic Combinatorics
 
-Lecture notes can be found [here](/Lecture_Notes_3.pdf): last updated: Apr 15, 2018. 
+Lecture notes can be found [here](/Lecture_Notes_3.pdf): last updated: Apr 19, 2018. 
 
 #### April 20, 2018
 
