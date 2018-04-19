@@ -7,7 +7,7 @@ This is the webpage for the course Discete Mathematics at Sun Yat-sen University
 
 The latest lecture info can be found [here](/lecture.md).
 
-课程讲义：[第一部分](/Lecture_Notes.pdf), [第二部分](/Lecture_Notes_1.pdf), [第三部分(不含自动机理论部分)](/Lecture_Notes_2.pdf), [第四部分](/Lecture_Notes_3.pdf)
+课程讲义：[第一部分](/Lecture_Notes.pdf), [第二部分](/Lecture_Notes_1.pdf), [第三部分(不含自动机)](/Lecture_Notes_2.pdf), [第四部分(更新中)](/Lecture_Notes_3.pdf)
 
 作业：[第一次---3月23日交](/homework_set_1.pdf), [第二次---4月8日交](/homework_set_2.pdf), [第三次---4月20日交](/homework_set_3.pdf) —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
