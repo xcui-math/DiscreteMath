@@ -125,9 +125,11 @@ Lecture notes can be found [here](/Lecture_Notes_3.pdf): last updated: Apr 19, 2
 
 #### April 20, 2018
 
-Enumeration problem and [Stirling numbers](https://en.wikipedia.org/wiki/Stirling_number).
+Enumeration problem and [Stirling numbers](https://en.wikipedia.org/wiki/Stirling_number). Paritition of positive integers, p(n) and p(n,k), the generating function and recursive relation. Partition of sets, the second Stirling number S(n,k), and recursive relation.
 
 #### April 23, 2018
+
+Both p(n,k) and S(n,k) have interpretation as the number of solutions to the occupation problem, which can be more generally formulated. Then we shall briefly mention the first Stirling number s(n,k).
 
 Combinatorial designes: Latin square and [finite projective planes](https://en.wikipedia.org/wiki/Finite_geometry#Finite_projective_planes).
 
