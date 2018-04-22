@@ -137,7 +137,7 @@ Combinatorial designes: Latin square and [finite projective planes](https://en.w
 
 Combinatorical optimizational theory: [Knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem).
 
-[Problem Set 4, due May 4]() —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
+[Problem Set 4, due May 4](/homework_set_4.pdf) —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
 ### Lecture 17, 18: Midterm Overview
 
