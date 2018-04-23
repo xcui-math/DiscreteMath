@@ -131,7 +131,7 @@ Enumeration problem and [Stirling numbers](https://en.wikipedia.org/wiki/Stirlin
 
 Both p(n,k) and S(n,k) have interpretation as the number of solutions to the occupation problem, which can be more generally formulated. Then we shall briefly mention the first Stirling number s(n,k).
 
-Combinatorial designes: Latin square and [finite projective planes](https://en.wikipedia.org/wiki/Finite_geometry#Finite_projective_planes).
+Combinatorial designes: [Latin square, 拉丁方](https://zh.wikipedia.org/zh-hans/拉丁方陣) and [finite projective planes, 有限射影平面](https://en.wikipedia.org/wiki/Finite_geometry#Finite_projective_planes).
 
 #### April 27, 2018
 
