@@ -13,6 +13,7 @@ Further recommended reading:
 ### Lecture 2, 3, 4: Sets, Logic and Boolean Algebras
 
 Lecture notes can be found [here](/Lecture_Notes.pdf): last updated: Mar 16, 2018. 
+**集合论：教材3-2, 3-2, 3-4。数理逻辑：教材第一章（除1-6, 1-8, 1-9），第二章（除2-7。布尔代数：教材6-4（书上这一部分需要的铺垫概念过多，不建议阅读，请参照讲义）。**
 
 #### March 9, 2018
 
@@ -43,7 +44,7 @@ This is an introductory lecture about theory of proofs. Firstly we shall introdu
 
 Recommended reading:
 + Read about the [common proof strategies](http://www.mathcs.bethel.edu/~gossett/DiscreteMathWithProof/ProofStrategies.pdf) and the [common errors in proof](http://www.mathcs.bethel.edu/~gossett/DiscreteMathWithProof/CommonErrorsInProofs.pdf). Try to come up with more items to the lists if you can.
-+ **Read Section 1-8 (pp. 40) and 2-7 (pp. 75) of the text book.**
++ **阅读教材 1-8 (pp. 40) 和 2-7 (pp. 75) 相关部分.**
 
 #### March 23, 2018
 
@@ -76,7 +77,8 @@ Further readings:
 
 Lecture notes on recursion can be found [here](/Lecture_Notes_2.pdf): last updated: Apr 7, 2018. 
 
-For formal language and automata part, please refer to Section 8-1, 8-2 and 8-6 of the textbook.
+**For formal language and automata part, please refer to Section 8-1, 8-2 and 8-6 of the textbook. 形式语言和自动机部分详见教材8-1, 8-2 和 8-6部分。**
+
 #### April 2, 2018
 
 Reviewing the KMP algorithms, and the instruction for the second homework. Then we moved to the new section on recursion, its application in programming, and then the recursive sequence. For homognenous linear recursive relation of degree k, there is a general method of solving it using character equation, given that the character equation (degree k) has k distinct roots.
