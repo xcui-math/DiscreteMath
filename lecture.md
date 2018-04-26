@@ -19,8 +19,8 @@ Lecture notes can be found [here](/Lecture_Notes.pdf): last updated: Mar 16, 201
 An introductory lecture about set theory and propositional logic (unfinished). We started from the relevant definition about sets, various m-nary operations and results about commutativity, associativity and distributivity. The motivation of propositional logic, various m-nary operations on it, and the truth table.
 
 Recommended exercise:
-+ __Finish the exercises given during the lecture.
-+ 阅读教材的相关内容————对同样的内容通过不同的方式（听课，阅读不同版本的文献，查询[Wikipedia](https://en.wikipedia.org/)等等）进行学习可以加深理解，巩固基础。__
++ **Finish the exercises given during the lecture.**
++ **阅读教材的相关内容————对同样的内容通过不同的方式（听课，阅读不同版本的文献，查询[Wikipedia](https://en.wikipedia.org/)等等）进行学习可以加深理解，巩固基础。**
 
 #### March 12, 2018
 
@@ -86,8 +86,8 @@ Reviewing the KMP algorithms, and the instruction for the second homework. Then 
 Continue on the recursive relation: solving them using generating functions （发生函数/生成函数/母函数）. The general theory of generating functions, manipulations involving shifting, multiplication and derivation. Examples of solving non-honomeneous, non-constant coefficient recursive relations.
 
 Recommended Reading:
-+ **The general theory of generating functions is also covered in [this notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/readings/ln11.pdf), so if you are not sure about what we covered in class, please refer to it.
-+ Please make sure that you could follow all the calculation examples showed in class.**
++ **The general theory of generating functions is also covered in [this notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/readings/ln11.pdf), so if you are not sure about what we covered in class, please refer to it.**
++ **Please make sure that you could follow all the calculation examples showed in class.**
 
 #### April 9, 2018
 
