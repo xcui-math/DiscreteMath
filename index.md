@@ -11,6 +11,8 @@ The latest lecture info can be found [here](/lecture.md).
 
 作业：[第一次---3月23日交](/homework_set_1.pdf), [第二次---4月8日交](/homework_set_2.pdf), [第三次---4月20日交](/homework_set_3.pdf), [第四次---5月4日交](/homework_set_4.pdf) —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
+期中考试之前相关的重要文献已经在[课程进度页面](/lecture.md)上**加粗显示**，基本优先级为 讲义和课堂笔记 > 教材 > 其它加粗的参考文献。Discrete Mathematics with Proof(以下简称DMP)中的相关章节：2.1 - 2.6, 3.1 - 3.4, 4.2 - 4.3, 7.1 - 7.2, 7.4, 8.1 - 8.2。DMP的阅读不作要求。
+
 ### Instructor
 
 Xiaoyi Cui
