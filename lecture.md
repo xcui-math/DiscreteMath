@@ -19,8 +19,8 @@ Lecture notes can be found [here](/Lecture_Notes.pdf): last updated: Mar 16, 201
 An introductory lecture about set theory and propositional logic (unfinished). We started from the relevant definition about sets, various m-nary operations and results about commutativity, associativity and distributivity. The motivation of propositional logic, various m-nary operations on it, and the truth table.
 
 Recommended exercise:
-+ **Finish the exercises given during the lecture.
-+ 阅读教材的相关内容————对同样的内容通过不同的方式（听课，阅读不同版本的文献，查询[Wikipedia](https://en.wikipedia.org/)等等）进行学习可以加深理解，巩固基础。**
++ __Finish the exercises given during the lecture.
++ 阅读教材的相关内容————对同样的内容通过不同的方式（听课，阅读不同版本的文献，查询[Wikipedia](https://en.wikipedia.org/)等等）进行学习可以加深理解，巩固基础。__
 
 #### March 12, 2018
 
