@@ -19,8 +19,9 @@ Lecture notes can be found [here](/Lecture_Notes.pdf): last updated: Mar 16, 201
 An introductory lecture about set theory and propositional logic (unfinished). We started from the relevant definition about sets, various m-nary operations and results about commutativity, associativity and distributivity. The motivation of propositional logic, various m-nary operations on it, and the truth table.
 
 Recommended exercise:
-+ Finish the exercises given during the lecture.
-+ 阅读教材的相关内容————对同样的内容通过不同的方式（听课，阅读不同版本的文献，查询[Wikipedia](https://en.wikipedia.org/)等等）进行学习可以加深理解，巩固基础。
++ **Finish the exercises given during the lecture.
++ 阅读教材的相关内容————对同样的内容通过不同的方式（听课，阅读不同版本的文献，查询[Wikipedia](https://en.wikipedia.org/)等等）进行学习可以加深理解，巩固基础。**
+
 #### March 12, 2018
 
 Implication and bicondition; statements viewed as "constant" operations and the tree graph to denote compound operations. Boolean algebras, revisiting the example from set theory and propositional logic, and its theoretical importance. Then we moved to the introduction of predicate logic.
@@ -42,7 +43,7 @@ This is an introductory lecture about theory of proofs. Firstly we shall introdu
 
 Recommended reading:
 + Read about the [common proof strategies](http://www.mathcs.bethel.edu/~gossett/DiscreteMathWithProof/ProofStrategies.pdf) and the [common errors in proof](http://www.mathcs.bethel.edu/~gossett/DiscreteMathWithProof/CommonErrorsInProofs.pdf). Try to come up with more items to the lists if you can.
-+ Read Section 1-8 (pp. 40) and 2-7 (pp. 75) of the text book.
++ **Read Section 1-8 (pp. 40) and 2-7 (pp. 75) of the text book.**
 
 #### March 23, 2018
 
@@ -62,7 +63,7 @@ Two ways of encoding finite sequences in natural numbers: prime factorization an
 
 #### March 30, 2018
 
-Pattern matching: Knuth-Morris-Pratt --- I loosely follow the notes of Hans Werner Lang, which you can find [here](http://www.inf.fh-flensburg.de/lang/algorithmen/pattern/kmpen.htm). The border is a special repeating structure one can find on a string, or a substring. In our case, we are interested in the borders of preffix of a pattern. The KMP algorithm consists of two parts: the computation of the table b\[m\] and the searching part.
+Pattern matching: Knuth-Morris-Pratt --- I loosely follow the **notes of Hans Werner Lang, which you can find [here](http://www.inf.fh-flensburg.de/lang/algorithmen/pattern/kmpen.htm).** The border is a special repeating structure one can find on a string, or a substring. In our case, we are interested in the borders of preffix of a pattern. The KMP algorithm consists of two parts: the computation of the table b\[m\] and the searching part.
 
 计算b[m]代码的简单解释：假设我们已知b[0]到b[i]的值，也就知道了p[m]中p[i]之前的前缀所含有的最大配边(border)。那么p[0:i]（亦即由p[0], p[1],...,p[i]组成的前缀）的最大配边要么从p[0:(i－1)]的最大配边被p[i]延伸(extend)出来，或者是从p[0:(i－1)]的小一些的配边被p[i]延伸(extend)出来。可以延伸的语句判定就是p[i]==p[j]，而如果最大配边不能延伸，寻找次一级配边的长度，则需要用到j=b[j]语句。
 
@@ -85,15 +86,15 @@ Reviewing the KMP algorithms, and the instruction for the second homework. Then 
 Continue on the recursive relation: solving them using generating functions （发生函数/生成函数/母函数）. The general theory of generating functions, manipulations involving shifting, multiplication and derivation. Examples of solving non-honomeneous, non-constant coefficient recursive relations.
 
 Recommended Reading:
-+ The general theory of generating functions is also covered in [this notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/readings/ln11.pdf), so if you are not sure about what we covered in class, please refer to it.
-+ Please make sure that you could follow all the calculation examples showed in class.
++ **The general theory of generating functions is also covered in [this notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/readings/ln11.pdf), so if you are not sure about what we covered in class, please refer to it.
++ Please make sure that you could follow all the calculation examples showed in class.**
 
 #### April 9, 2018
 
 We introduced the theory of formal languages, the binary and unary operation on them, and the compatibility. Then we started to talk a bit about formal grammar. 
 
 Recommended Readings:
-+ 阅读教科书第八章前两节的内容，证明定理8-1.4。
++ **阅读教科书第八章前两节的内容，证明定理8-1.4。**
 + There are many interesting [applications](http://web.cs.ucdavis.edu/~rogaway/classes/120/spring13/eric-dfa.pdf) of the theory of automata, even in [Biology](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
 [Problem Set 3, due April 20](/homework_set_3.pdf) —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
@@ -103,9 +104,10 @@ Recommended Readings:
 Context-Free (CF) Grammar 上下文无关文法, and Regular Grammar and Regular Languages 正则文法和正则语言. Examples involve the left-(resp. right-)most linear derivation grammar 左（右）线性文法. Finite Automata, including the Deterministic Finite Automata (DFA) and the Nondeterministic Finite Automata (NFA), their acceptible languages. Theorem 1 says that {L(M)\|M is any NFA} is a subset of {L(M)\|M is any DFA}. Then Kleene's theorem gives the equivalences of the aforementioned two sets, and with the RCF language, i.e., {L(G)\|G is any Regular Grammar}.
 
 注意：DFA和NFA对应于教材8-6中定义的两类状态接收器，唯一的曲别在于，教材要求初态是一个态的集合，而我们只要求是一个态。但核心定理的证明思路不变，我们课上讲的情况更为简洁，且与教材中的定义等价。
+
 Recommended Readings:
 + 关于自动机理论的应用，参见上次课给的阅读建议。
-+ 这一部分内容会应用集合论的基本知识，建议复习以前集合论讲过的内容，并阅读教材第三章的相关章节。
++ **这一部分内容会应用集合论的基本知识，建议复习以前集合论讲过的内容，并阅读教材第三章的相关章节。**
 
 #### April 16, 2018
 
@@ -114,7 +116,7 @@ Finishing up the proof of Kleene's theorem, Pumping lemma, Turing Machine, P and
 教材中355页对于正则文法的定义有误。正则文法分为左（派生）正则文法和右（派生）正则文法两种，分别对应于生成式形右端的非终结符在最左侧和在最右侧两种情形。这两种文法都可以被线性化，对应于左线性文法和右线性文法。
 
 Recommended Readings:
-+ Kleene定理的证明教材8-6亦有给出。
++ **Kleene定理的证明教材8-6亦有给出。**
 + 关于泵引理的证明和应用，见[这里](https://baike.baidu.com/item/%E6%B3%B5%E5%BC%95%E7%90%86)。
 + If you have time and are interested, read about [Turing Machine](https://zh.wikipedia.org/wiki/图灵机) and [P/NP problem](https://zh.wikipedia.org/zh-hans/P/NP问题).
 
