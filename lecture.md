@@ -120,7 +120,7 @@ Recommended Readings:
 
 ### Lecture 14, 15, 16: Basic Combinatorics
 
-Lecture notes can be found [here](/Lecture_Notes_3.pdf): last updated: Apr 19, 2018. 
+Lecture notes can be found [here](/Lecture_Notes_3.pdf): last updated: Apr 27, 2018. 
 
 #### April 20, 2018
 
@@ -130,11 +130,13 @@ Enumeration problem and [Stirling numbers](https://en.wikipedia.org/wiki/Stirlin
 
 Both p(n,k) and S(n,k) have interpretation as the number of solutions to the occupation problem, which can be more generally formulated. Then we shall briefly mention the first Stirling number s(n,k).
 
-Combinatorial designes: [Latin square(拉丁方)](https://zh.wikipedia.org/zh-hans/拉丁方陣) and [finite projective planes(有限射影平面)](https://en.wikipedia.org/wiki/Finite_geometry#Finite_projective_planes).
+Combinatorial designes: [Latin square(拉丁方)](https://zh.wikipedia.org/zh-hans/拉丁方陣): definition and results about orthogonality.
 
 #### April 27, 2018
 
-Combinatorical optimizational theory: [Knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem).
+The use of Latin square and its relation to [finite projective planes(有限射影平面)](https://en.wikipedia.org/wiki/Finite_geometry#Finite_projective_planes).
+
+Due to the time constraints, we shall not mention the last bit of the story: combinatorical optimizational theory: [Knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem). But you are more than welcome to explore by yourself!
 
 [Problem Set 4, due May 4](/homework_set_4.pdf) —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
