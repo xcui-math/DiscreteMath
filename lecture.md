@@ -18,7 +18,7 @@ Lecture notes can be found [here](/Lecture_Notes.pdf): last updated: Mar 16, 201
 
 #### March 9, 2018
 
-An introductory lecture about set theory and propositional logic (unfinished). We started from the relevant definition about sets, various m-nary operations and results about commutativity, associativity and distributivity. The motivation of propositional logic, various m-nary operations on it, and the truth table.
+An introductory lecture about set theory (集合论) and propositional logic (命题逻辑). We started from the relevant definition about sets, various m-nary operations (m元运算) and results about commutativity 交换性/律, associativity 结合性/律 and distributivity 分配性/律. The motivation of propositional logic, various m-nary operations on it, and the truth table 真值表.
 
 Recommended exercise:
 + **Finish the exercises given during the lecture.**
@@ -26,11 +26,11 @@ Recommended exercise:
 
 #### March 12, 2018
 
-Implication and bicondition; statements viewed as "constant" operations and the tree graph to denote compound operations. Boolean algebras, revisiting the example from set theory and propositional logic, and its theoretical importance. Then we moved to the introduction of predicate logic.
+Implication 条件 and bicondition 双条件; statements viewed as "constant" operations and the tree graph to denote compound operations (复合运算). Boolean algebras 布尔代数, revisiting the example from set theory and propositional logic, and its theoretical importance. Then we moved to the introduction of predicate logic 谓词逻辑.
 
 #### March 16, 2018
 
-Predicate logic: the quantifiers, their domain and computation rules; Exercises; further applications: Island with inhabitants, logic circuit, and [Sudoku](https://en.wikipedia.org/wiki/Sudoku).
+Predicate logic: the quantifiers 量词, their domain 辖域 and computation rules; Exercises; further applications: Island with inhabitants, logic circuit, and [Sudoku](https://en.wikipedia.org/wiki/Sudoku).
 
 [Problem Set 1, due March 23](/homework_set_1.pdf) —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
@@ -40,8 +40,10 @@ Predicate logic: the quantifiers, their domain and computation rules; Exercises;
 
 Lecture notes can be found [here](/Lecture_Notes_1.pdf): last updated: Mar 30, 2018. 
 
+**KMP算法相关的移动表格见讲义，配边表格见[参考文献](http://www.inf.fh-flensburg.de/lang/algorithmen/pattern/kmpen.htm)**
+
 #### March 19, 2018
-This is an introductory lecture about theory of proofs. Firstly we shall introduce the axiomatic formulation of mathematical theories, and give examples. Then, several ways of giving proofs. Lastly, we shall introduce the Well-ordered Principle (WOP), the Mathematical Induction (MI) and the Complete Induction (CI) and show their equivalence.  
+This is an introductory lecture about theory of proofs. Firstly we shall introduce the axiomatic (公理化的) formulation of mathematical theories, and give examples. Then, several ways of giving proofs. Lastly, we shall introduce the Well-ordered Principle (WOP，良序原理), the Mathematical Induction (MI，数学归纳法) and the Complete Induction (CI，完全归纳法) and show their equivalence.  
 
 Recommended reading:
 + Read about the [common proof strategies](http://www.mathcs.bethel.edu/~gossett/DiscreteMathWithProof/ProofStrategies.pdf) and the [common errors in proof](http://www.mathcs.bethel.edu/~gossett/DiscreteMathWithProof/CommonErrorsInProofs.pdf). Try to come up with more items to the lists if you can.
@@ -57,7 +59,7 @@ Further Reading:
 
 #### March 26, 2018
 
-Two ways of encoding finite sequences in natural numbers: prime factorization and Goedel's function (using Chinese Remainder Theorem). Complexity of algorithms and counting critical operations. Then we shall focus on the example of searching and pattern matching problems, the corresponding algorithms involve sequential search, binary searching.
+Two ways of encoding finite sequences in natural numbers: prime factorization and Goedel's function (using Chinese Remainder Theorem 中国剩余定理). Complexity (复杂度) of algorithms and counting critical operations (关键操作). Then we shall focus on the example of searching and pattern matching problems 模式匹配, the corresponding algorithms involve sequential search 顺序搜索, binary searching 二分法搜索.
 
 [Problem Set 2, due April 8](/homework_set_2.pdf) —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
@@ -65,7 +67,7 @@ Two ways of encoding finite sequences in natural numbers: prime factorization an
 
 #### March 30, 2018
 
-Pattern matching: Knuth-Morris-Pratt --- I loosely follow the **notes of Hans Werner Lang (关于配边的理论请参考这个), which you can find [here](http://www.inf.fh-flensburg.de/lang/algorithmen/pattern/kmpen.htm).** The border is a special repeating structure one can find on a string, or a substring. In our case, we are interested in the borders of preffix of a pattern. The KMP algorithm consists of two parts: the computation of the table b\[m\] and the searching part.
+Pattern matching: Knuth-Morris-Pratt --- I loosely follow the **notes of Hans Werner Lang (关于配边的理论请参考这个), which you can find [here](http://www.inf.fh-flensburg.de/lang/algorithmen/pattern/kmpen.htm).** The border (配边) is a special repeating structure one can find on a string 字串, or a substring 子串. In our case, we are interested in the borders 配边 of preffix 前缀 of a pattern. The KMP algorithm consists of two parts: the computation of the table b\[m\] and the searching part.
 
 计算b[m]代码的简单解释：假设我们已知b[0]到b[i]的值，也就知道了p[m]中p[i]之前的前缀所含有的最大配边(border)。那么p[0:i]（亦即由p[0], p[1],...,p[i]组成的前缀）的最大配边要么从p[0:(i－1)]的最大配边被p[i]延伸(extend)出来，或者是从p[0:(i－1)]的小一些的配边被p[i]延伸(extend)出来。可以延伸的语句判定就是p[i]==p[j]，而如果最大配边不能延伸，寻找次一级配边的长度，则需要用到j=b[j]语句。
 
@@ -82,19 +84,19 @@ Lecture notes on recursion can be found [here](/Lecture_Notes_2.pdf): last updat
 
 #### April 2, 2018
 
-Reviewing the KMP algorithms, and the instruction for the second homework. Then we moved to the new section on recursion, its application in programming, and then the recursive sequence. For homognenous linear recursive relation of degree k, there is a general method of solving it using character equation, given that the character equation (degree k) has k distinct roots.
+Reviewing the KMP algorithms, and the instruction for the second homework. Then we moved to the new section on recursion 递归/迭代, its application in programming, and then the recursive sequence. For homognenous (齐次) linear recursive relation of degree k, there is a general method of solving it using character equation (特征方程), given that the character equation (degree k) has k distinct roots 非重根.
 
 #### April 8, 2018
 
-Continue on the recursive relation: solving them using generating functions （发生函数/生成函数/母函数）. The general theory of generating functions, manipulations involving shifting, multiplication and derivation. Examples of solving non-honomeneous, non-constant coefficient recursive relations.
+Continue on the recursive relation: solving them using generating functions （发生函数/生成函数/母函数）. The general theory of generating functions, manipulations involving shifting 向右移, multiplication 相乘 and derivation 导数. Examples of solving non-honogeneous, non-constant coefficient (变系数的) recursive relations.
 
 Recommended Reading:
-+ **The general theory of generating functions is also covered in [this notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/readings/ln11.pdf), so if you are not sure about what we covered in class, please refer to it.**
++ **The general theory of generating functions is also covered in [this notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/readings/ln11.pdf), so if you are not sure about what we covered in class, please refer to it. **
 + **Please make sure that you could follow all the calculation examples showed in class.**
 
 #### April 9, 2018
 
-We introduced the theory of formal languages, the binary and unary operation on them, and the compatibility. Then we started to talk a bit about formal grammar. 
+We introduced the theory of formal languages 形式语言, the binary (二元) and unary (一元) operation on them, and the compatibility. Then we started to talk a bit about formal grammar 形式文法. 
 
 Recommended Readings:
 + **阅读教科书第八章前两节的内容，证明定理8-1.4。**
@@ -104,7 +106,7 @@ Recommended Readings:
 
 #### April 13, 2018
 
-Context-Free (CF) Grammar 上下文无关文法, and Regular Grammar and Regular Languages 正则文法和正则语言. Examples involve the left-(resp. right-)most linear derivation grammar 左（右）线性文法. Finite Automata, including the Deterministic Finite Automata (DFA) and the Nondeterministic Finite Automata (NFA), their acceptible languages. Theorem 1 says that {L(M)\|M is any NFA} is a subset of {L(M)\|M is any DFA}. Then Kleene's theorem gives the equivalences of the aforementioned two sets, and with the RCF language, i.e., {L(G)\|G is any Regular Grammar}.
+Context-Free (CF) Grammar 上下文无关文法, and Regular Grammar and Regular Languages 正则文法和正则语言. Examples involve the left-(resp. right-)most linear derivation grammar 左（右）线性文法. Finite Automata, including the Deterministic Finite Automata (DFA，确定的有限状态接收器) and the Nondeterministic Finite Automata (NFA，不确定的有限状态接收器), their acceptible languages. Theorem 1 says that {L(M)\|M is any NFA} is a subset of {L(M)\|M is any DFA}. Then Kleene's theorem gives the equivalences of the aforementioned two sets, and with the RCF language, i.e., {L(G)\|G is any Regular Grammar}.
 
 注意：DFA和NFA对应于教材8-6中定义的两类状态接收器，唯一的曲别在于，教材要求初态是一个态的集合，而我们只要求是一个态。但核心定理的证明思路不变，我们课上讲的情况更为简洁，且与教材中的定义等价。
 
@@ -114,7 +116,7 @@ Recommended Readings:
 
 #### April 16, 2018
 
-Finishing up the proof of Kleene's theorem, Pumping lemma, Turing Machine, P and NP complexity.
+Finishing up the proof of Kleene's theorem, Pumping lemma 泵引理, Turing Machine, P and NP complexity.
 
 教材中355页对于正则文法的定义有误。正则文法分为左（派生）正则文法和右（派生）正则文法两种，分别对应于生成式形右端的非终结符在最左侧和在最右侧两种情形。这两种文法都可以被线性化，对应于左线性文法和右线性文法。
 
@@ -129,19 +131,19 @@ Lecture notes can be found [here](/Lecture_Notes_3.pdf): last updated: Apr 27, 2
 
 #### April 20, 2018
 
-Enumeration problem and [Stirling numbers](https://en.wikipedia.org/wiki/Stirling_number). Paritition of positive integers, p(n) and p(n,k), the generating function and recursive relation. Partition of sets, the second Stirling number S(n,k), and recursive relation.
+Enumeration problem and [Stirling numbers](https://en.wikipedia.org/wiki/Stirling_number). Paritition of positive integers 正整数的剖分, p(n) and p(n,k), the generating function and recursive relation. Partition of sets, the second Stirling number S(n,k), and recursive relation.
 
 #### April 23, 2018
 
-Both p(n,k) and S(n,k) have interpretation as the number of solutions to the occupation problem, which can be more generally formulated. Then we shall briefly mention the first Stirling number s(n,k).
+Both p(n,k) and S(n,k) have interpretation as the number of solutions to the occupation problem 分配问题, which can be more generally formulated. Then we shall briefly mention the first Stirling number s(n,k).
 
 Combinatorial designes: [Latin square(拉丁方)](https://zh.wikipedia.org/zh-hans/拉丁方陣): definition and results about orthogonality.
 
 #### April 27, 2018
 
-The use of Latin square and its relation to [finite projective planes(有限射影平面)](https://en.wikipedia.org/wiki/Finite_geometry#Finite_projective_planes).
+The use of Latin square. Then we started the introduction on [finite projective planes(有限射影平面)](https://en.wikipedia.org/wiki/Finite_geometry#Finite_projective_planes), the axiomatic formulation and the duality (对偶). The FPP can be be characterized by its order n, where each of its line contains exactly n+1 points. The existence of an order n FPP is equivalent to the existence of n-1 mutually orthogonal (两两正交) n-by-n Latin squares.
 
-Due to the time constraints, we shall not mention the last bit of the story: combinatorical optimizational theory: [Knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem). But you are more than welcome to explore by yourself!
+Due to the time constraints, we shall not mention the last bit of the story: combinatorical optimizational theory 组合优化理论: [Knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem). But you are more than welcome to explore by yourself!
 
 [Problem Set 4, due May 4](/homework_set_4.pdf) —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
