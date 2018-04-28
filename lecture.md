@@ -105,7 +105,6 @@ Recommended Readings:
 [Problem Set 3, due April 20](/homework_set_3.pdf) —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
 #### April 13, 2018
-
 Context-Free (CF) Grammar 上下文无关文法, and Regular Grammar and Regular Languages 正则文法和正则语言. Examples involve the left-(resp. right-)most linear derivation grammar 左（右）线性文法. Finite Automata, including the Deterministic Finite Automata (DFA，确定的有限状态接收器) and the Nondeterministic Finite Automata (NFA，不确定的有限状态接收器), their acceptible languages. Theorem 1 says that {L(M)\|M is any NFA} is a subset of {L(M)\|M is any DFA}. Then Kleene's theorem gives the equivalences of the aforementioned two sets, and with the RCF language, i.e., {L(G)\|G is any Regular Grammar}.
 
 注意：DFA和NFA对应于教材8-6中定义的两类状态接收器，唯一的曲别在于，教材要求初态是一个态的集合，而我们只要求是一个态。但核心定理的证明思路不变，我们课上讲的情况更为简洁，且与教材中的定义等价。
@@ -127,7 +126,7 @@ Recommended Readings:
 
 ### Lecture 14, 15, 16: Basic Combinatorics
 
-Lecture notes can be found [here](/Lecture_Notes_3.pdf): last updated: Apr 27, 2018. 
+Lecture notes can be found [here](/Lecture_Notes_3.pdf): last updated: Apr 28, 2018. 
 
 #### April 20, 2018
 
