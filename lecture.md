@@ -155,7 +155,11 @@ Further Readings:
 
 #### April 28, 2018
 
+We summarized set theory and its relevant appearances in Boolean algebra and the theory of formal languages. (Note that also the statements of finite projective plane can be phrased entirely using set theory.) Then we reviewed the exercises on parrtern matching: the obvious algorithms and the KMP.
+
 #### May 4, 2018
+
+Homework on recursive relation, the theory of automata, and basic combinatorics.
 
 ### Lecture 19, 20, 21: Graph Theory
 
