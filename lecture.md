@@ -124,6 +124,7 @@ Recommended Readings:
 + 关于泵引理的证明和应用，见[这里](https://baike.baidu.com/item/%E6%B3%B5%E5%BC%95%E7%90%86)。
 + If you have time and are interested, read about [Turing Machine](https://zh.wikipedia.org/wiki/图灵机) and [P/NP problem](https://zh.wikipedia.org/zh-hans/P/NP问题).
 
+
 ### Lecture 14, 15, 16: Basic Combinatorics
 
 Lecture notes can be found [here](/Lecture_Notes_3.pdf): last updated: Apr 28, 2018. 
@@ -145,6 +146,10 @@ The use of Latin square. Then we started the introduction on [finite projective 
 Due to the time constraints, we shall not mention the last bit of the story: combinatorical optimizational theory 组合优化理论: [Knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem). But you are more than welcome to explore by yourself!
 
 [Problem Set 4, due May 4](/homework_set_4.pdf) —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
+
+Further Readings:
++ The area of finite geometry is related to other branches of combinatorics (for example the BIBD) as well as number theory, see the [wikipedia page](https://en.wikipedia.org/wiki/Finite_geometry) and the [AMS essay](http://www.ams.org/publicoutreach/feature-column/fcarc-finitegeometries) for some nice, non-technical overview. 
++ 有限几何学以及应用，[百度页面](https://baike.baidu.com/item/有限几何).
 
 ### Lecture 17, 18: Midterm Overview
 
