@@ -125,6 +125,7 @@ Recommended Readings:
 + If you have time and are interested, read about [Turing Machine](https://zh.wikipedia.org/wiki/图灵机) and [P/NP problem](https://zh.wikipedia.org/zh-hans/P/NP问题).
 
 
+
 ### Lecture 14, 15, 16: Basic Combinatorics
 
 Lecture notes can be found [here](/Lecture_Notes_3.pdf): last updated: Apr 28, 2018. 
@@ -165,7 +166,9 @@ Homework on recursive relation, the theory of automata, and basic combinatorics.
 
 #### May 18, 2018
 
-We will review the midterm exam. ![See the stat.](midterm.png)
+We will review the midterm exam. 
+
+![See the stat.](midterm.png)
 
 ### Lecture 20, 21, 22: Graph Theory
 
