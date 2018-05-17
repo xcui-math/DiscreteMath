@@ -166,7 +166,7 @@ Homework on recursive relation, the theory of automata, and basic combinatorics.
 
 #### May 18, 2018
 
-We will review the midterm exam. 
+We will review the [midterm exam](midtermA.pdf). 
 
 ![See the stat.](midterm.png)
 
