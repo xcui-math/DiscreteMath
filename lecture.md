@@ -166,36 +166,37 @@ Homework on recursive relation, the theory of automata, and basic combinatorics.
 
 #### May 18, 2018
 
-We will review the [midterm exam](midtermA.pdf). 
+We will review the midterm exam. 
 
 ![See the stat.](midterm.png)
 
-### Lecture 20, 21, 22: Graph Theory
+关于计算题第二题，见[第3次作业中练习题第5题的答案](solps3ex5.pdf)
+
+### Lecture 20, 21, 22, 23, 24: Graph Theory and Trees
+
+For this section we shall closely follow the textbook, so there is no lecture notes.
 
 #### May 25, 2018
 
 #### June 1, 2018
 
-#### June 8, 2018
-
 [Problem Set 5, due June 8]() —— 请用白色A4至A5大小的白色纸张书写或者打印，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
-### Lecture 23, 24: Trees
+#### June 8, 2018
 
 #### June 15, 2018
 
-#### June 22, 2018
-
 [Problem Set 6, due June 22]() —— 请用白色A4至A5大小的白色纸张书写或者打印，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
-### Lecture 25, 26: Functions and Relations
+#### June 22, 2018
 
+### Lecture 25, 26: Functions and Relations
 
 #### June 29, 2018
 
 #### July 6, 2018
 
-[Problem Set 7, due July 6]() —— 请用白色A4至A5大小的白色纸张书写或者打印，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
+[Problem Set 7, due July 13]() —— 请用白色A4至A5大小的白色纸张书写或者打印，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
 ### Lecture 27: Final Overview
 
