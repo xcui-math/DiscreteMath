@@ -178,7 +178,11 @@ For this section we shall closely follow the textbook, so there is no lecture no
 
 #### May 25, 2018
 
+Definitions, Simple graph, degree of a vertex, operations on graphs: subgraph, and complement of a graph. The "handshake" theorem: the total degree of a graph equals to twice of the edge number. Connectivity of a graph, the cut edge and the cut vertex.
+
 #### June 1, 2018
+
+Edge and vertex connectivity and the inequality between them. Euler trails and Euler circuits. Hamilton cycles.
 
 [Problem Set 5, due June 8](HW5.pdf) —— 请用白色A4至A5大小的白色纸张书写或者打印，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
