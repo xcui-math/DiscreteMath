@@ -7,6 +7,8 @@ This is the webpage for the course Discete Mathematics at Sun Yat-sen University
 
 ### News
 
+6月8日全天停课，请大家注意安全！作业下次上课再交。
+
 The latest lecture info can be found [here](/lecture.md).
 
 课程讲义：[第一部分](/Lecture_Notes.pdf), [第二部分](/Lecture_Notes_1.pdf), [第三部分(不含自动机)](/Lecture_Notes_2.pdf), [第四部分](/Lecture_Notes_3.pdf)
