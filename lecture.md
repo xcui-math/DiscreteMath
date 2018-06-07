@@ -192,6 +192,12 @@ Edge and vertex connectivity and the inequality between them. Euler trails and E
 
 #### June 8, 2018
 
+Planar graph, Euler's formula, and the edge number bound about the connected, simple planar graphs. Dual graph.
+
+Recommended Readings:
++ Read about the chromatic problem of graph theory, see for example  7-6 of textbook.
++ There are many applications of graph theory in computer science. For example, the [Dijkstra algorithm](https://zh.wikipedia.org/wiki/%E6%88%B4%E5%85%8B%E6%96%AF%E7%89%B9%E6%8B%89%E7%AE%97%E6%B3%95) computes the shortest path between two vertices of a weighted, connected, simple graph. This is also the algorithm used in 旅かえる.
+
 #### June 15, 2018
 
 [Problem Set 6, due June 22]() —— 请用白色A4至A5大小的白色纸张书写或者打印，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
