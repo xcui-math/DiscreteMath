@@ -78,6 +78,8 @@ Further readings:
 
 ### Lecture 9, 10, 11, 12, 13: Recursion and the theory of Automata
 
+![turing](/turing.png)
+
 Lecture notes on recursion can be found [here](/Lecture_Notes_2.pdf): last updated: Apr 7, 2018. For formal language and automata part, please refer to Section 8-1, 8-2 and 8-6 of the textbook.
 
 **形式语言和自动机部分详见教材8-1, 8-2 和 8-6。**
@@ -173,6 +175,8 @@ We will review the midterm exam.
 关于计算题第二题，见[第3次作业中练习题第5题的答案](solps3ex5.pdf)
 
 ### Lecture 20, 21, 22, 23, 24: Graph Theory and Trees
+
+![graph theory](/graph.png)
 
 For this section we shall closely follow the textbook, so there is no lecture notes.
 
