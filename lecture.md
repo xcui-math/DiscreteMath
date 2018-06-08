@@ -188,7 +188,7 @@ Definitions, Simple graph, degree of a vertex, operations on graphs: subgraph, a
 
 Edge and vertex connectivity and the inequality between them. Euler trails and Euler circuits. Hamilton cycles.
 
-[Problem Set 5, due June 8](HW5.pdf) —— 请用白色A4至A5大小的白色纸张书写或者打印，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
+[Problem Set 5, due June 15](HW5.pdf) —— 请用白色A4至A5大小的白色纸张书写或者打印，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
 #### June 8, 2018
 
@@ -198,23 +198,26 @@ Class cancelled due to typhoon. The due date of 5th homework is postponed to nex
 
 Planar graph, Euler's formula, and the edge number bound about the connected, simple planar graphs. Dual graph.
 
-Recommended Readings:
+Further Readings:
 + Read about the chromatic problem of graph theory, see for example  7-6 of textbook.
 + There are many applications of graph theory in computer science. For example, the [Dijkstra algorithm](https://zh.wikipedia.org/wiki/%E6%88%B4%E5%85%8B%E6%96%AF%E7%89%B9%E6%8B%89%E7%AE%97%E6%B3%95) computes the shortest path between two vertices of a weighted, connected, simple graph. This is also the algorithm used in 旅かえる.
-
-[Problem Set 6, due June 22]() —— 请用白色A4至A5大小的白色纸张书写或者打印，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
++ A [list of small graphs](http://www.graphclasses.org/smallgraphs.html), their naming, and there's [even more](https://hog.grinvin.org/).
 
 #### June 22, 2018
 
-### Lecture 25, 26: Functions and Relations
+Trees.
+
+[Problem Set 6, due June 29]() —— 请用白色A4至A5大小的白色纸张书写或者打印，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
+
+### Lecture 25: Functions and Relations
 
 #### June 29, 2018
-
-#### July 6, 2018
 
 [Problem Set 7, due July 13]() —— 请用白色A4至A5大小的白色纸张书写或者打印，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
 ### Lecture 27: Final Overview
+
+#### July 6, 2018
 
 #### July 13, 2018
 
