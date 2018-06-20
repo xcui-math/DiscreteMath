@@ -7,17 +7,15 @@ This is the webpage for the course Discete Mathematics at Sun Yat-sen University
 
 ### News
 
-6月8日全天停课，请大家注意安全！作业下次上课再交。
-
 The latest lecture info can be found [here](/lecture.md).
 
 课程讲义：[第一部分](/Lecture_Notes.pdf), [第二部分](/Lecture_Notes_1.pdf), [第三部分(不含自动机)](/Lecture_Notes_2.pdf), [第四部分](/Lecture_Notes_3.pdf)
 
-作业：[第一次---3月23日交](/homework_set_1.pdf), [第二次---4月8日交](/homework_set_2.pdf), [第三次---4月20日交](/homework_set_3.pdf), [第四次---5月4日交](/homework_set_4.pdf), [第五次---6月8日交](/HW5.pdf) —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
+作业：[第一次---3月23日交](/homework_set_1.pdf), [第二次---4月8日交](/homework_set_2.pdf), [第三次---4月20日交](/homework_set_3.pdf), [第四次---5月4日交](/homework_set_4.pdf), [第五次---6月8日交](/HW5.pdf), [第六次---6月29日交](/homework_set_6.pdf) —— 请用白色A4至A5大小的白色纸张书写，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
 期中考试之前相关的重要文献已经在[课程进度页面](/lecture.md)上**加粗显示**，基本优先级为 讲义和课堂笔记 > 教材 > 其它加粗的参考文献。Discrete Mathematics with Proof(以下简称DMP)中的相关章节：2.1 - 2.6, 3.1 - 3.4, 4.2 - 4.3, 7.1 - 7.2, 7.4, 8.1 - 8.2。DMP的阅读不作要求。
 
-期中考试，2018年5月9日上午9:30 - 11:30, 形式为半开卷，即，每人可以携带一张A4尺寸的公式纸（自行准备，考试完需上交）参加考试。
+
 
 ### Instructor
 
@@ -60,6 +58,8 @@ The total score of this course consists of the following:
 + 25% Homework
 + 25% Midterm
 + 40% Final
+
+期中考试，2018年5月9日上午9:30 - 11:30, 形式为半开卷，即，每人可以携带一张A4尺寸的公式纸（自行准备，考试完需上交）参加考试。
 
 ### Policies
 
