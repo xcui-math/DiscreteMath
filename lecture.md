@@ -225,4 +225,7 @@ Problem solving session I: Graph theory. We shall discuss homework 5 and 6.
 
 Problem solving session II: the rest. We shall discuss homework 4 and 7.
 
+**Wish you great success in the final, and have a nice summer break!**
+![summer](/summer.gif)
+
 [Back](/index.md)
