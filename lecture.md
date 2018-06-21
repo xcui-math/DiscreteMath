@@ -209,11 +209,13 @@ Trees.
 
 [Problem Set 6, due June 29](homework_set_6.pdf) —— 请用白色A4至A5大小的白色纸张书写或者打印，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
 
+[Problem Set 7, due July 6](homework_set_7.pdf) —— 请用白色A4至A5大小的白色纸张书写或者打印，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
+
 ### Lecture 25: Functions and Relations
 
 #### June 29, 2018
 
-[Problem Set 7, due July 6](homework_set_7.pdf) —— 请用白色A4至A5大小的白色纸张书写或者打印，若多于一页请订起来以免散失。由于课程人数众多，为了批改和收发方便，请一定不要直接上交作业本。多谢理解！
+This is a mixture of "something old and something new" --- we shall introduce the new concepts, and look at the application in various contexts that we ran into before.
 
 ### Lecture 27: Final Overview
 
