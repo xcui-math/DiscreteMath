@@ -217,6 +217,8 @@ This is a mixture of "something old and something new" --- we shall introduce th
 
 ### Lecture 27: Final Overview
 
+We shall discuss homework and exercises. It is helpful to read about the suggestions given to math majors by Terry Tao (陶哲轩), on [going beyond exams](/陶哲轩：分数不是唯一.pdf) and on [problem solving](/陶哲轩：解题之道.pdf).
+
 #### July 6, 2018
 
 Problem solving session I: Graph theory. We shall discuss homework 5 and 6.
