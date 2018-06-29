@@ -15,7 +15,7 @@ The latest lecture info can be found [here](/lecture.md).
 
 期中考试之前相关的重要文献已经在[课程进度页面](/lecture.md)上**加粗显示**，基本优先级为 讲义和课堂笔记 > 教材 > 其它加粗的参考文献。Discrete Mathematics with Proof(以下简称DMP)中的相关章节：2.1 - 2.6, 3.1 - 3.4, 4.2 - 4.3, 7.1 - 7.2, 7.4, 8.1 - 8.2。DMP的阅读不作要求。
 
-由大家表决，期末考试形式依然为半开卷（51：43）。试题形式：8道填空题（40分），5道计算题（45分），1道证明题（15分）。大概比例：图论与期中考试之前内容各占一半（上下可能浮动10%）。
+由大家表决，期末考试形式依然为半开卷，大家可以自行准备一张公式纸，要求同期中考试相同；期中考试占总成绩比例暂定下调为15%（需等待教务部审查）。试题形式：8道填空题（40分），5道计算题（45分），1道证明题（15分）。期末考试范围：期中考试的范围加上图论。大概比例：图论与期中考试之前内容各占一半（上下可能浮动10%）。
 
 ### Instructor
 
@@ -55,8 +55,8 @@ There will be one midterm and one final exams. The exams are closed-book, but yo
 
 The total score of this course consists of the following:
 + 10% Attendance
-+ 25% Homework
-+ 25% Midterm
++ 35% Homework
++ 15% Midterm
 + 40% Final
 
 期中考试，2018年5月9日上午9:30 - 11:30, 形式为半开卷，即，每人可以携带一张A4尺寸的公式纸（自行准备，考试完需上交）参加考试。
