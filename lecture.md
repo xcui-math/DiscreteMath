@@ -223,6 +223,8 @@ We shall discuss homework and exercises. It is helpful to read about the suggest
 
 Problem solving session I: Graph theory. We shall discuss homework 5 and 6.
 
+We did not quite finish in class, so here are more [solutions](/graph-theory-ex.pdf) and my [微课实验](/7-4.mp4) about &-4(4).
+
 #### July 13, 2018
 
 Problem solving session II: the rest. We shall discuss homework 4 and 7.
