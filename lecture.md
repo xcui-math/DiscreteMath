@@ -180,6 +180,8 @@ We will review the midterm exam.
 
 For this section we shall closely follow the textbook, so there is no lecture notes.
 
+**教材对应内容：教材7-1,7-2,7-4,7-5,7-6(仅平面图的对偶部分；染色理论略)，7-7.**
+
 #### May 25, 2018
 
 Definitions, Simple graph, degree of a vertex, operations on graphs: subgraph, and complement of a graph. The "handshake" theorem: the total degree of a graph equals to twice of the edge number. Connectivity of a graph, the cut edge and the cut vertex.
